@@ -1,0 +1,16 @@
+PLAYING(40): Toy{PC:400, N:Cometa, H:0, R:false, W:0.0}, Flying{MA:100.0, CA:0.0}, Kite{C:RED, T:DELTA, LL:100}
+	Cometa took off!
+	Cometa current altitude: 20.0 feet
+	Flying the RED, DELTA kite Cometa with 100 feets of line
+PLAYING(23): Toy{PC:400, N:Cometa, H:40, R:false, W:2.0}, Flying{MA:100.0, CA:20.0}, Kite{C:RED, T:DELTA, LL:100}
+	Cometa current altitude: 31.5 feet
+	Flying the RED, DELTA kite Cometa with 100 feets of line
+PLAYING(38): Toy{PC:400, N:Cometa, H:63, R:false, W:3.1500000000000004}, Flying{MA:100.0, CA:31.5}, Kite{C:RED, T:DELTA, LL:100}
+	Cometa current altitude: 50.5 feet
+	Flying the RED, DELTA kite Cometa with 100 feets of line
+RETIRED: Toy{PC:400, N:Cometa, H:101, R:true, W:5.050000000000001}, Flying{MA:100.0, CA:50.5}, Kite{C:RED, T:DELTA, LL:100}
+Retired toys:
+	Toy{PC:400, N:Cometa, H:101, R:true, W:5.050000000000001}, Flying{MA:100.0, CA:50.5}, Kite{C:RED, T:DELTA, LL:100}
+Total toys: 1
+Total happiness: 101
+Average wear: 5.050000000000001

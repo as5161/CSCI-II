@@ -1,0 +1,73 @@
+PLAYING(40): Toy{PC:300, N:Darkstar, H:0, R:false, W:0.0}, Flying{MA:400.0, CA:0.0}, RCPlane{S:15.0}
+	Darkstar took off!
+	Darkstar current altitude: 200.0 feet
+	Darkstar current speed: 95.0 mph
+PLAYING(23): Toy{PC:301, N:F/A-18_Hornet, H:0, R:false, W:0.0}, Flying{MA:380.0, CA:0.0}, RCPlane{S:15.0}
+	F/A-18_Hornet took off!
+	F/A-18_Hornet current altitude: 115.0 feet
+	F/A-18_Hornet current speed: 61.0 mph
+PLAYING(38): Toy{PC:302, N:F-14_Tomcat, H:0, R:false, W:0.0}, Flying{MA:350.0, CA:0.0}, RCPlane{S:15.0}
+	F-14_Tomcat took off!
+	F-14_Tomcat current altitude: 190.0 feet
+	F-14_Tomcat current speed: 91.0 mph
+PLAYING(34): Toy{PC:303, N:MiG-28, H:0, R:false, W:0.0}, Flying{MA:300.0, CA:0.0}, RCPlane{S:15.0}
+	MiG-28 took off!
+	MiG-28 current altitude: 170.0 feet
+	MiG-28 current speed: 80.0 mph
+PLAYING(20): Toy{PC:304, N:Skyhawk, H:0, R:false, W:0.0}, Flying{MA:420.0, CA:0.0}, RCPlane{S:15.0}
+	Skyhawk took off!
+	Skyhawk current altitude: 100.0 feet
+	Skyhawk current speed: 55.0 mph
+PLAYING(45): Toy{PC:300, N:Darkstar, H:40, R:false, W:15.0}, Flying{MA:400.0, CA:200.0}, RCPlane{S:95.0}
+	Darkstar current altitude: 400.0 feet
+	Darkstar current speed: 100.0 mph
+PLAYING(25): Toy{PC:301, N:F/A-18_Hornet, H:23, R:false, W:15.0}, Flying{MA:380.0, CA:115.0}, RCPlane{S:61.0}
+	F/A-18_Hornet current altitude: 240.0 feet
+	F/A-18_Hornet current speed: 90.0 mph
+PLAYING(28): Toy{PC:302, N:F-14_Tomcat, H:38, R:false, W:15.0}, Flying{MA:350.0, CA:190.0}, RCPlane{S:91.0}
+	F-14_Tomcat current altitude: 330.0 feet
+	F-14_Tomcat current speed: 120.0 mph
+PLAYING(39): Toy{PC:303, N:MiG-28, H:34, R:false, W:15.0}, Flying{MA:300.0, CA:170.0}, RCPlane{S:80.0}
+	MiG-28 current altitude: 300.0 feet
+	MiG-28 current speed: 80.0 mph
+PLAYING(43): Toy{PC:304, N:Skyhawk, H:20, R:false, W:15.0}, Flying{MA:420.0, CA:100.0}, RCPlane{S:55.0}
+	Skyhawk current altitude: 315.0 feet
+	Skyhawk current speed: 100.0 mph
+PLAYING(22): Toy{PC:300, N:Darkstar, H:85, R:false, W:110.0}, Flying{MA:400.0, CA:400.0}, RCPlane{S:100.0}
+	Darkstar current altitude: 400.0 feet
+	Darkstar current speed: 100.0 mph
+RETIRED: Toy{PC:300, N:Darkstar, H:107, R:true, W:210.0}, Flying{MA:400.0, CA:400.0}, RCPlane{S:100.0}
+PLAYING(22): Toy{PC:301, N:F/A-18_Hornet, H:48, R:false, W:76.0}, Flying{MA:380.0, CA:240.0}, RCPlane{S:90.0}
+	F/A-18_Hornet current altitude: 350.0 feet
+	F/A-18_Hornet current speed: 90.0 mph
+PLAYING(26): Toy{PC:302, N:F-14_Tomcat, H:66, R:false, W:106.0}, Flying{MA:350.0, CA:330.0}, RCPlane{S:120.0}
+	F-14_Tomcat current altitude: 350.0 feet
+	F-14_Tomcat current speed: 120.0 mph
+PLAYING(32): Toy{PC:303, N:MiG-28, H:73, R:false, W:95.0}, Flying{MA:300.0, CA:300.0}, RCPlane{S:80.0}
+	MiG-28 current altitude: 300.0 feet
+	MiG-28 current speed: 80.0 mph
+RETIRED: Toy{PC:303, N:MiG-28, H:105, R:true, W:175.0}, Flying{MA:300.0, CA:300.0}, RCPlane{S:80.0}
+PLAYING(46): Toy{PC:304, N:Skyhawk, H:63, R:false, W:70.0}, Flying{MA:420.0, CA:315.0}, RCPlane{S:100.0}
+	Skyhawk current altitude: 420.0 feet
+	Skyhawk current speed: 100.0 mph
+RETIRED: Toy{PC:304, N:Skyhawk, H:109, R:true, W:170.0}, Flying{MA:420.0, CA:420.0}, RCPlane{S:100.0}
+PLAYING(22): Toy{PC:301, N:F/A-18_Hornet, H:70, R:false, W:166.0}, Flying{MA:380.0, CA:350.0}, RCPlane{S:90.0}
+	F/A-18_Hornet current altitude: 380.0 feet
+	F/A-18_Hornet current speed: 90.0 mph
+PLAYING(26): Toy{PC:302, N:F-14_Tomcat, H:92, R:false, W:226.0}, Flying{MA:350.0, CA:350.0}, RCPlane{S:120.0}
+	F-14_Tomcat current altitude: 350.0 feet
+	F-14_Tomcat current speed: 120.0 mph
+RETIRED: Toy{PC:302, N:F-14_Tomcat, H:118, R:true, W:346.0}, Flying{MA:350.0, CA:350.0}, RCPlane{S:120.0}
+PLAYING(20): Toy{PC:301, N:F/A-18_Hornet, H:92, R:false, W:256.0}, Flying{MA:380.0, CA:380.0}, RCPlane{S:90.0}
+	F/A-18_Hornet current altitude: 380.0 feet
+	F/A-18_Hornet current speed: 90.0 mph
+RETIRED: Toy{PC:301, N:F/A-18_Hornet, H:112, R:true, W:346.0}, Flying{MA:380.0, CA:380.0}, RCPlane{S:90.0}
+Retired toys:
+	Toy{PC:300, N:Darkstar, H:107, R:true, W:210.0}, Flying{MA:400.0, CA:400.0}, RCPlane{S:100.0}
+	Toy{PC:303, N:MiG-28, H:105, R:true, W:175.0}, Flying{MA:300.0, CA:300.0}, RCPlane{S:80.0}
+	Toy{PC:304, N:Skyhawk, H:109, R:true, W:170.0}, Flying{MA:420.0, CA:420.0}, RCPlane{S:100.0}
+	Toy{PC:302, N:F-14_Tomcat, H:118, R:true, W:346.0}, Flying{MA:350.0, CA:350.0}, RCPlane{S:120.0}
+	Toy{PC:301, N:F/A-18_Hornet, H:112, R:true, W:346.0}, Flying{MA:380.0, CA:380.0}, RCPlane{S:90.0}
+Total toys: 5
+Total happiness: 551
+Average wear: 249.4

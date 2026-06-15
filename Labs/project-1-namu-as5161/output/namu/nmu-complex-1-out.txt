@@ -1,0 +1,90 @@
+(NMU) prefix...
+= two 2
+= three 3
+= nine 9
+= five 5
+= ten 10
+= negHundred ! 100
+= x $ * * * * two three - nine five ! ten negHundred
+= four % 13 9
+= eight ^ 2 3
+@ + x four
+(NMU) infix...
+two = 2
+three = 3
+nine = 9
+five = 5
+ten = 10
+negHundred = !100
+x = $( ( ( ( two * three ) * ( nine - five ) ) * !ten ) * negHundred )
+four = ( 13 % 9 )
+eight = ( 2 ^ 3 )
+Print ( x + four )
+(NMU) interpreting program...
+158
+(NMU) Symbol table:
+two: 2
+three: 3
+nine: 9
+five: 5
+ten: 10
+negHundred: -100
+x: 154
+four: 4
+eight: 8
+(NMU) compiling program to tmp/TEMP.nmu...
+(ALT) Machine instructions:
+PUSH 2
+STORE two
+PUSH 3
+STORE three
+PUSH 9
+STORE nine
+PUSH 5
+STORE five
+PUSH 10
+STORE ten
+PUSH 100
+NEG
+STORE negHundred
+LOAD two
+LOAD three
+MUL
+LOAD nine
+LOAD five
+SUB
+MUL
+LOAD ten
+NEG
+MUL
+LOAD negHundred
+MUL
+SQRT
+STORE x
+PUSH 13
+PUSH 9
+MOD
+STORE four
+PUSH 2
+PUSH 3
+POW
+STORE eight
+LOAD x
+LOAD four
+ADD
+PRINT
+(ALT) Executing...
+158
+(ALT) Completed execution!
+(ALT) Symbol table:
+two: 2
+three: 3
+nine: 9
+five: 5
+ten: 10
+negHundred: -100
+x: 154
+four: 4
+eight: 8
+(ALT) Instruction stack:
+	EMPTY

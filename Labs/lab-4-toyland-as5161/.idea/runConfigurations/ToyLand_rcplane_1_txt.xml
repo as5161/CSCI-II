@@ -1,0 +1,18 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="ToyLand rcplane-1.txt" type="Application" factoryName="Application">
+    <option name="ALTERNATIVE_JRE_PATH" value="liberica-17" />
+    <option name="MAIN_CLASS_NAME" value="toyland.ToyLand" />
+    <module name="Toyland" />
+    <option name="PROGRAM_PARAMETERS" value="rcplane-1.txt" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="toys.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

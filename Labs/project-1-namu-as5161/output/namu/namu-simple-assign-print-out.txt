@@ -1,0 +1,59 @@
+(NMU) prefix...
+@ 5
+@ 10
+= x 24
+= y 513
+= z -19
+@ z
+@ y
+@ x
+(NMU) infix...
+Print 5
+Print 10
+x = 24
+y = 513
+z = -19
+Print z
+Print y
+Print x
+(NMU) interpreting program...
+5
+10
+-19
+513
+24
+(NMU) Symbol table:
+x: 24
+y: 513
+z: -19
+(NMU) compiling program to tmp/TEMP.nmu...
+(ALT) Machine instructions:
+PUSH 5
+PRINT
+PUSH 10
+PRINT
+PUSH 24
+STORE x
+PUSH 513
+STORE y
+PUSH -19
+STORE z
+LOAD z
+PRINT
+LOAD y
+PRINT
+LOAD x
+PRINT
+(ALT) Executing...
+5
+10
+-19
+513
+24
+(ALT) Completed execution!
+(ALT) Symbol table:
+x: 24
+y: 513
+z: -19
+(ALT) Instruction stack:
+	EMPTY

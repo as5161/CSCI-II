@@ -1,0 +1,26 @@
+(ALT) Machine instructions:
+PUSH 10
+PUSH 20
+DIV
+PRINT
+PUSH 40
+PUSH 30
+DIV
+PRINT
+PUSH -10
+PUSH 5
+PUSH -6
+PUSH 55
+DIV
+PRINT
+DIV
+PRINT
+(ALT) Executing...
+0
+1
+0
+-2
+(ALT) Completed execution!
+(ALT) Symbol table:
+(ALT) Instruction stack:
+	EMPTY

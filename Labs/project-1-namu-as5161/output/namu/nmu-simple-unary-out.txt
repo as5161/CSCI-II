@@ -1,0 +1,51 @@
+(NMU) prefix...
+@ $ 25
+@ ! 7
+= x $ 100
+@ x
+= y ! 84
+@ y
+(NMU) infix...
+Print $25
+Print !7
+x = $100
+Print x
+y = !84
+Print y
+(NMU) interpreting program...
+5
+-7
+10
+-84
+(NMU) Symbol table:
+x: 10
+y: -84
+(NMU) compiling program to tmp/TEMP.nmu...
+(ALT) Machine instructions:
+PUSH 25
+SQRT
+PRINT
+PUSH 7
+NEG
+PRINT
+PUSH 100
+SQRT
+STORE x
+LOAD x
+PRINT
+PUSH 84
+NEG
+STORE y
+LOAD y
+PRINT
+(ALT) Executing...
+5
+-7
+10
+-84
+(ALT) Completed execution!
+(ALT) Symbol table:
+x: 10
+y: -84
+(ALT) Instruction stack:
+	EMPTY

@@ -1,0 +1,1 @@
+This directory is used by Namu when compiling the NMU instructions to a temporary file that Alaton can run.

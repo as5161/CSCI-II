@@ -1,0 +1,3 @@
+test1.in: Tests a fully open maze where all cells in the exit row can reach the exit directly, and other cells can reach the exit via sliding. This checks BFS steps calculation for multiple paths.
+test2.in: Tests a maze with obstacles arranged to form complex paths, checking graph connections and BFS handling of multiple steps and varied routes.
+test3.in: Tests a maze with isolated regions and varying paths to ensure correct identification of reachable cells and step counts.

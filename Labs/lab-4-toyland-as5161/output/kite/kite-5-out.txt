@@ -1,0 +1,73 @@
+PLAYING(40): Toy{PC:400, N:Cometa, H:0, R:false, W:0.0}, Flying{MA:100.0, CA:0.0}, Kite{C:RED, T:DELTA, LL:100}
+	Cometa took off!
+	Cometa current altitude: 20.0 feet
+	Flying the RED, DELTA kite Cometa with 100 feets of line
+PLAYING(23): Toy{PC:401, N:Pipa, H:0, R:false, W:0.0}, Flying{MA:500.0, CA:0.0}, Kite{C:RED, T:DIAMOND, LL:500}
+	Pipa took off!
+	Pipa current altitude: 11.5 feet
+	Flying the RED, DIAMOND kite Pipa with 500 feets of line
+PLAYING(38): Toy{PC:402, N:Tako, H:0, R:false, W:0.0}, Flying{MA:300.0, CA:0.0}, Kite{C:YELLOW, T:ROKKAKUS, LL:300}
+	Tako took off!
+	Tako current altitude: 19.0 feet
+	Flying the YELLOW, ROKKAKUS kite Tako with 300 feets of line
+PLAYING(34): Toy{PC:403, N:Saranggola, H:0, R:false, W:0.0}, Flying{MA:450.0, CA:0.0}, Kite{C:BLUE, T:STUNT, LL:450}
+	Saranggola took off!
+	Saranggola current altitude: 17.0 feet
+	Flying the BLUE, STUNT kite Saranggola with 450 feets of line
+PLAYING(20): Toy{PC:404, N:Aquilone, H:0, R:false, W:0.0}, Flying{MA:250.0, CA:0.0}, Kite{C:WHITE, T:PARAFOIL, LL:250}
+	Aquilone took off!
+	Aquilone current altitude: 10.0 feet
+	Flying the WHITE, PARAFOIL kite Aquilone with 250 feets of line
+PLAYING(45): Toy{PC:400, N:Cometa, H:40, R:false, W:2.0}, Flying{MA:100.0, CA:20.0}, Kite{C:RED, T:DELTA, LL:100}
+	Cometa current altitude: 42.5 feet
+	Flying the RED, DELTA kite Cometa with 100 feets of line
+PLAYING(25): Toy{PC:401, N:Pipa, H:23, R:false, W:1.1500000000000001}, Flying{MA:500.0, CA:11.5}, Kite{C:RED, T:DIAMOND, LL:500}
+	Pipa current altitude: 24.0 feet
+	Flying the RED, DIAMOND kite Pipa with 500 feets of line
+PLAYING(28): Toy{PC:402, N:Tako, H:38, R:false, W:1.9000000000000001}, Flying{MA:300.0, CA:19.0}, Kite{C:YELLOW, T:ROKKAKUS, LL:300}
+	Tako current altitude: 33.0 feet
+	Flying the YELLOW, ROKKAKUS kite Tako with 300 feets of line
+PLAYING(39): Toy{PC:403, N:Saranggola, H:34, R:false, W:1.7000000000000002}, Flying{MA:450.0, CA:17.0}, Kite{C:BLUE, T:STUNT, LL:450}
+	Saranggola current altitude: 36.5 feet
+	Flying the BLUE, STUNT kite Saranggola with 450 feets of line
+PLAYING(43): Toy{PC:404, N:Aquilone, H:20, R:false, W:1.0}, Flying{MA:250.0, CA:10.0}, Kite{C:WHITE, T:PARAFOIL, LL:250}
+	Aquilone current altitude: 31.5 feet
+	Flying the WHITE, PARAFOIL kite Aquilone with 250 feets of line
+PLAYING(22): Toy{PC:400, N:Cometa, H:85, R:false, W:4.25}, Flying{MA:100.0, CA:42.5}, Kite{C:RED, T:DELTA, LL:100}
+	Cometa current altitude: 53.5 feet
+	Flying the RED, DELTA kite Cometa with 100 feets of line
+RETIRED: Toy{PC:400, N:Cometa, H:107, R:true, W:5.35}, Flying{MA:100.0, CA:53.5}, Kite{C:RED, T:DELTA, LL:100}
+PLAYING(22): Toy{PC:401, N:Pipa, H:48, R:false, W:2.4000000000000004}, Flying{MA:500.0, CA:24.0}, Kite{C:RED, T:DIAMOND, LL:500}
+	Pipa current altitude: 35.0 feet
+	Flying the RED, DIAMOND kite Pipa with 500 feets of line
+PLAYING(26): Toy{PC:402, N:Tako, H:66, R:false, W:3.3000000000000003}, Flying{MA:300.0, CA:33.0}, Kite{C:YELLOW, T:ROKKAKUS, LL:300}
+	Tako current altitude: 46.0 feet
+	Flying the YELLOW, ROKKAKUS kite Tako with 300 feets of line
+PLAYING(32): Toy{PC:403, N:Saranggola, H:73, R:false, W:3.6500000000000004}, Flying{MA:450.0, CA:36.5}, Kite{C:BLUE, T:STUNT, LL:450}
+	Saranggola current altitude: 52.5 feet
+	Flying the BLUE, STUNT kite Saranggola with 450 feets of line
+RETIRED: Toy{PC:403, N:Saranggola, H:105, R:true, W:5.25}, Flying{MA:450.0, CA:52.5}, Kite{C:BLUE, T:STUNT, LL:450}
+PLAYING(46): Toy{PC:404, N:Aquilone, H:63, R:false, W:3.15}, Flying{MA:250.0, CA:31.5}, Kite{C:WHITE, T:PARAFOIL, LL:250}
+	Aquilone current altitude: 54.5 feet
+	Flying the WHITE, PARAFOIL kite Aquilone with 250 feets of line
+RETIRED: Toy{PC:404, N:Aquilone, H:109, R:true, W:5.45}, Flying{MA:250.0, CA:54.5}, Kite{C:WHITE, T:PARAFOIL, LL:250}
+PLAYING(22): Toy{PC:401, N:Pipa, H:70, R:false, W:3.5000000000000004}, Flying{MA:500.0, CA:35.0}, Kite{C:RED, T:DIAMOND, LL:500}
+	Pipa current altitude: 46.0 feet
+	Flying the RED, DIAMOND kite Pipa with 500 feets of line
+PLAYING(26): Toy{PC:402, N:Tako, H:92, R:false, W:4.6000000000000005}, Flying{MA:300.0, CA:46.0}, Kite{C:YELLOW, T:ROKKAKUS, LL:300}
+	Tako current altitude: 59.0 feet
+	Flying the YELLOW, ROKKAKUS kite Tako with 300 feets of line
+RETIRED: Toy{PC:402, N:Tako, H:118, R:true, W:5.9}, Flying{MA:300.0, CA:59.0}, Kite{C:YELLOW, T:ROKKAKUS, LL:300}
+PLAYING(20): Toy{PC:401, N:Pipa, H:92, R:false, W:4.6000000000000005}, Flying{MA:500.0, CA:46.0}, Kite{C:RED, T:DIAMOND, LL:500}
+	Pipa current altitude: 56.0 feet
+	Flying the RED, DIAMOND kite Pipa with 500 feets of line
+RETIRED: Toy{PC:401, N:Pipa, H:112, R:true, W:5.6000000000000005}, Flying{MA:500.0, CA:56.0}, Kite{C:RED, T:DIAMOND, LL:500}
+Retired toys:
+	Toy{PC:400, N:Cometa, H:107, R:true, W:5.35}, Flying{MA:100.0, CA:53.5}, Kite{C:RED, T:DELTA, LL:100}
+	Toy{PC:403, N:Saranggola, H:105, R:true, W:5.25}, Flying{MA:450.0, CA:52.5}, Kite{C:BLUE, T:STUNT, LL:450}
+	Toy{PC:404, N:Aquilone, H:109, R:true, W:5.45}, Flying{MA:250.0, CA:54.5}, Kite{C:WHITE, T:PARAFOIL, LL:250}
+	Toy{PC:402, N:Tako, H:118, R:true, W:5.9}, Flying{MA:300.0, CA:59.0}, Kite{C:YELLOW, T:ROKKAKUS, LL:300}
+	Toy{PC:401, N:Pipa, H:112, R:true, W:5.6000000000000005}, Flying{MA:500.0, CA:56.0}, Kite{C:RED, T:DIAMOND, LL:500}
+Total toys: 5
+Total happiness: 551
+Average wear: 5.510000000000001

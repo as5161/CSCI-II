@@ -1,0 +1,282 @@
+Welcome to Pokemon Hot Potato v1.0 :)
+Number of players: 15, Seed: 10
+
+ROUND 1
+========
+15 player/s remain:
+Alakazam(0) <-- CURSOR
+Bulbasaur(1)
+Charmander(2)
+Dragonite(3)
+Eevee(4)
+Fennekin(5)
+Gyarados(6)
+Hitmonlee(7)
+Ivysaur(8)
+Jigglypuff(9)
+Kadabra(10)
+Lapras(11)
+Mewtwo(12)
+Nidoking(13)
+Onix(14)
+Passing potato 5 times RIGHT:
+	:Alakazam(0) has potato and passing RIGHT
+	:Bulbasaur(1) has potato and passing RIGHT
+	:Charmander(2) has potato and passing RIGHT
+	:Dragonite(3) has potato and passing RIGHT
+	:Eevee(4) has potato and passing RIGHT
+Fennekin(5) lost!
+
+ROUND 2
+========
+14 player/s remain:
+Alakazam(0)
+Bulbasaur(1)
+Charmander(2)
+Dragonite(3)
+Eevee(4)
+Gyarados(6) <-- CURSOR
+Hitmonlee(7)
+Ivysaur(8)
+Jigglypuff(9)
+Kadabra(10)
+Lapras(11)
+Mewtwo(12)
+Nidoking(13)
+Onix(14)
+Passing potato 3 times LEFT:
+	:Gyarados(6) has potato and passing LEFT
+	:Eevee(4) has potato and passing LEFT
+	:Dragonite(3) has potato and passing LEFT
+Charmander(2) lost!
+
+ROUND 3
+========
+13 player/s remain:
+Alakazam(0)
+Bulbasaur(1) <-- CURSOR
+Dragonite(3)
+Eevee(4)
+Gyarados(6)
+Hitmonlee(7)
+Ivysaur(8)
+Jigglypuff(9)
+Kadabra(10)
+Lapras(11)
+Mewtwo(12)
+Nidoking(13)
+Onix(14)
+Passing potato 10 times RIGHT:
+	:Bulbasaur(1) has potato and passing RIGHT
+	:Dragonite(3) has potato and passing RIGHT
+	:Eevee(4) has potato and passing RIGHT
+	:Gyarados(6) has potato and passing RIGHT
+	:Hitmonlee(7) has potato and passing RIGHT
+	:Ivysaur(8) has potato and passing RIGHT
+	:Jigglypuff(9) has potato and passing RIGHT
+	:Kadabra(10) has potato and passing RIGHT
+	:Lapras(11) has potato and passing RIGHT
+	:Mewtwo(12) has potato and passing RIGHT
+Nidoking(13) lost!
+
+ROUND 4
+========
+12 player/s remain:
+Alakazam(0)
+Bulbasaur(1)
+Dragonite(3)
+Eevee(4)
+Gyarados(6)
+Hitmonlee(7)
+Ivysaur(8)
+Jigglypuff(9)
+Kadabra(10)
+Lapras(11)
+Mewtwo(12)
+Onix(14) <-- CURSOR
+Passing potato 2 times LEFT:
+	:Onix(14) has potato and passing LEFT
+	:Mewtwo(12) has potato and passing LEFT
+Lapras(11) lost!
+
+ROUND 5
+========
+11 player/s remain:
+Alakazam(0)
+Bulbasaur(1)
+Dragonite(3)
+Eevee(4)
+Gyarados(6)
+Hitmonlee(7)
+Ivysaur(8)
+Jigglypuff(9)
+Kadabra(10) <-- CURSOR
+Mewtwo(12)
+Onix(14)
+Passing potato 7 times RIGHT:
+	:Kadabra(10) has potato and passing RIGHT
+	:Mewtwo(12) has potato and passing RIGHT
+	:Onix(14) has potato and passing RIGHT
+	:Alakazam(0) has potato and passing RIGHT
+	:Bulbasaur(1) has potato and passing RIGHT
+	:Dragonite(3) has potato and passing RIGHT
+	:Eevee(4) has potato and passing RIGHT
+Gyarados(6) lost!
+
+ROUND 6
+========
+10 player/s remain:
+Alakazam(0)
+Bulbasaur(1)
+Dragonite(3)
+Eevee(4)
+Hitmonlee(7) <-- CURSOR
+Ivysaur(8)
+Jigglypuff(9)
+Kadabra(10)
+Mewtwo(12)
+Onix(14)
+Passing potato 7 times LEFT:
+	:Hitmonlee(7) has potato and passing LEFT
+	:Eevee(4) has potato and passing LEFT
+	:Dragonite(3) has potato and passing LEFT
+	:Bulbasaur(1) has potato and passing LEFT
+	:Alakazam(0) has potato and passing LEFT
+	:Onix(14) has potato and passing LEFT
+	:Mewtwo(12) has potato and passing LEFT
+Kadabra(10) lost!
+
+ROUND 7
+========
+9 player/s remain:
+Alakazam(0)
+Bulbasaur(1)
+Dragonite(3)
+Eevee(4)
+Hitmonlee(7)
+Ivysaur(8)
+Jigglypuff(9) <-- CURSOR
+Mewtwo(12)
+Onix(14)
+Passing potato 6 times RIGHT:
+	:Jigglypuff(9) has potato and passing RIGHT
+	:Mewtwo(12) has potato and passing RIGHT
+	:Onix(14) has potato and passing RIGHT
+	:Alakazam(0) has potato and passing RIGHT
+	:Bulbasaur(1) has potato and passing RIGHT
+	:Dragonite(3) has potato and passing RIGHT
+Eevee(4) lost!
+
+ROUND 8
+========
+8 player/s remain:
+Alakazam(0)
+Bulbasaur(1)
+Dragonite(3)
+Hitmonlee(7) <-- CURSOR
+Ivysaur(8)
+Jigglypuff(9)
+Mewtwo(12)
+Onix(14)
+Passing potato 5 times LEFT:
+	:Hitmonlee(7) has potato and passing LEFT
+	:Dragonite(3) has potato and passing LEFT
+	:Bulbasaur(1) has potato and passing LEFT
+	:Alakazam(0) has potato and passing LEFT
+	:Onix(14) has potato and passing LEFT
+Mewtwo(12) lost!
+
+ROUND 9
+========
+7 player/s remain:
+Alakazam(0)
+Bulbasaur(1)
+Dragonite(3)
+Hitmonlee(7)
+Ivysaur(8)
+Jigglypuff(9) <-- CURSOR
+Onix(14)
+Passing potato 7 times RIGHT:
+	:Jigglypuff(9) has potato and passing RIGHT
+	:Onix(14) has potato and passing RIGHT
+	:Alakazam(0) has potato and passing RIGHT
+	:Bulbasaur(1) has potato and passing RIGHT
+	:Dragonite(3) has potato and passing RIGHT
+	:Hitmonlee(7) has potato and passing RIGHT
+	:Ivysaur(8) has potato and passing RIGHT
+Jigglypuff(9) lost!
+
+ROUND 10
+========
+6 player/s remain:
+Alakazam(0)
+Bulbasaur(1)
+Dragonite(3)
+Hitmonlee(7)
+Ivysaur(8)
+Onix(14) <-- CURSOR
+Passing potato 9 times LEFT:
+	:Onix(14) has potato and passing LEFT
+	:Ivysaur(8) has potato and passing LEFT
+	:Hitmonlee(7) has potato and passing LEFT
+	:Dragonite(3) has potato and passing LEFT
+	:Bulbasaur(1) has potato and passing LEFT
+	:Alakazam(0) has potato and passing LEFT
+	:Onix(14) has potato and passing LEFT
+	:Ivysaur(8) has potato and passing LEFT
+	:Hitmonlee(7) has potato and passing LEFT
+Dragonite(3) lost!
+
+ROUND 11
+========
+5 player/s remain:
+Alakazam(0)
+Bulbasaur(1) <-- CURSOR
+Hitmonlee(7)
+Ivysaur(8)
+Onix(14)
+Passing potato 6 times RIGHT:
+	:Bulbasaur(1) has potato and passing RIGHT
+	:Hitmonlee(7) has potato and passing RIGHT
+	:Ivysaur(8) has potato and passing RIGHT
+	:Onix(14) has potato and passing RIGHT
+	:Alakazam(0) has potato and passing RIGHT
+	:Bulbasaur(1) has potato and passing RIGHT
+Hitmonlee(7) lost!
+
+ROUND 12
+========
+4 player/s remain:
+Alakazam(0)
+Bulbasaur(1)
+Ivysaur(8) <-- CURSOR
+Onix(14)
+Passing potato 1 times LEFT:
+	:Ivysaur(8) has potato and passing LEFT
+Bulbasaur(1) lost!
+
+ROUND 13
+========
+3 player/s remain:
+Alakazam(0) <-- CURSOR
+Ivysaur(8)
+Onix(14)
+Passing potato 3 times RIGHT:
+	:Alakazam(0) has potato and passing RIGHT
+	:Ivysaur(8) has potato and passing RIGHT
+	:Onix(14) has potato and passing RIGHT
+Alakazam(0) lost!
+
+ROUND 14
+========
+2 player/s remain:
+Ivysaur(8) <-- CURSOR
+Onix(14)
+Passing potato 0 times LEFT:
+Ivysaur(8) lost!
+
+ROUND 15
+========
+1 player/s remain:
+Onix(14) <-- CURSOR
+Onix(14) wins!

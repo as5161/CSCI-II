@@ -1,0 +1,39 @@
+Welcome to Pokemon Hot Potato v1.0 :)
+Number of players: 3, Seed: 9
+
+ROUND 1
+========
+3 player/s remain:
+Alakazam(0) <-- CURSOR
+Bulbasaur(1)
+Charmander(2)
+Passing potato 7 times RIGHT:
+	:Alakazam(0) has potato and passing RIGHT
+	:Bulbasaur(1) has potato and passing RIGHT
+	:Charmander(2) has potato and passing RIGHT
+	:Alakazam(0) has potato and passing RIGHT
+	:Bulbasaur(1) has potato and passing RIGHT
+	:Charmander(2) has potato and passing RIGHT
+	:Alakazam(0) has potato and passing RIGHT
+Bulbasaur(1) lost!
+
+ROUND 2
+========
+2 player/s remain:
+Alakazam(0)
+Charmander(2) <-- CURSOR
+Passing potato 7 times LEFT:
+	:Charmander(2) has potato and passing LEFT
+	:Alakazam(0) has potato and passing LEFT
+	:Charmander(2) has potato and passing LEFT
+	:Alakazam(0) has potato and passing LEFT
+	:Charmander(2) has potato and passing LEFT
+	:Alakazam(0) has potato and passing LEFT
+	:Charmander(2) has potato and passing LEFT
+Alakazam(0) lost!
+
+ROUND 3
+========
+1 player/s remain:
+Charmander(2) <-- CURSOR
+Charmander(2) wins!

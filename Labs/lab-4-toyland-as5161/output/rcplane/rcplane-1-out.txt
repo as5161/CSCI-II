@@ -1,0 +1,16 @@
+PLAYING(40): Toy{PC:300, N:Darkstar, H:0, R:false, W:0.0}, Flying{MA:400.0, CA:0.0}, RCPlane{S:15.0}
+	Darkstar took off!
+	Darkstar current altitude: 200.0 feet
+	Darkstar current speed: 95.0 mph
+PLAYING(23): Toy{PC:300, N:Darkstar, H:40, R:false, W:15.0}, Flying{MA:400.0, CA:200.0}, RCPlane{S:95.0}
+	Darkstar current altitude: 315.0 feet
+	Darkstar current speed: 100.0 mph
+PLAYING(38): Toy{PC:300, N:Darkstar, H:63, R:false, W:110.0}, Flying{MA:400.0, CA:315.0}, RCPlane{S:100.0}
+	Darkstar current altitude: 400.0 feet
+	Darkstar current speed: 100.0 mph
+RETIRED: Toy{PC:300, N:Darkstar, H:101, R:true, W:210.0}, Flying{MA:400.0, CA:400.0}, RCPlane{S:100.0}
+Retired toys:
+	Toy{PC:300, N:Darkstar, H:101, R:true, W:210.0}, Flying{MA:400.0, CA:400.0}, RCPlane{S:100.0}
+Total toys: 1
+Total happiness: 101
+Average wear: 210.0

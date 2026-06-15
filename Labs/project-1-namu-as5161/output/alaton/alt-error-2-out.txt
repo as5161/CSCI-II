@@ -1,0 +1,7 @@
+(ALT) Machine instructions:
+PUSH 10
+PUSH 0
+DIV
+PRINT
+(ALT) Executing...
+divide by zero

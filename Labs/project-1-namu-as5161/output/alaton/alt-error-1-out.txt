@@ -1,0 +1,5 @@
+(ALT) Machine instructions:
+PUSH 10
+LOAD x
+(ALT) Executing...
+uninitialized variable: x

@@ -1,0 +1,16 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Namu simple-unary.nmu" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="interpreter.Namu" />
+    <module name="Namu" />
+    <option name="PROGRAM_PARAMETERS" value="arb/simple-unary.nmu" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="interpreter.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

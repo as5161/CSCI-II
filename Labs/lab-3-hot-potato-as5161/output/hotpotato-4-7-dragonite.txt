@@ -1,0 +1,57 @@
+Welcome to Pokemon Hot Potato v1.0 :)
+Number of players: 4, Seed: 7
+
+ROUND 1
+========
+4 player/s remain:
+Alakazam(0) <-- CURSOR
+Bulbasaur(1)
+Charmander(2)
+Dragonite(3)
+Passing potato 2 times RIGHT:
+	:Alakazam(0) has potato and passing RIGHT
+	:Bulbasaur(1) has potato and passing RIGHT
+Charmander(2) lost!
+
+ROUND 2
+========
+3 player/s remain:
+Alakazam(0)
+Bulbasaur(1)
+Dragonite(3) <-- CURSOR
+Passing potato 10 times LEFT:
+	:Dragonite(3) has potato and passing LEFT
+	:Bulbasaur(1) has potato and passing LEFT
+	:Alakazam(0) has potato and passing LEFT
+	:Dragonite(3) has potato and passing LEFT
+	:Bulbasaur(1) has potato and passing LEFT
+	:Alakazam(0) has potato and passing LEFT
+	:Dragonite(3) has potato and passing LEFT
+	:Bulbasaur(1) has potato and passing LEFT
+	:Alakazam(0) has potato and passing LEFT
+	:Dragonite(3) has potato and passing LEFT
+Bulbasaur(1) lost!
+
+ROUND 3
+========
+2 player/s remain:
+Alakazam(0) <-- CURSOR
+Dragonite(3)
+Passing potato 10 times RIGHT:
+	:Alakazam(0) has potato and passing RIGHT
+	:Dragonite(3) has potato and passing RIGHT
+	:Alakazam(0) has potato and passing RIGHT
+	:Dragonite(3) has potato and passing RIGHT
+	:Alakazam(0) has potato and passing RIGHT
+	:Dragonite(3) has potato and passing RIGHT
+	:Alakazam(0) has potato and passing RIGHT
+	:Dragonite(3) has potato and passing RIGHT
+	:Alakazam(0) has potato and passing RIGHT
+	:Dragonite(3) has potato and passing RIGHT
+Alakazam(0) lost!
+
+ROUND 4
+========
+1 player/s remain:
+Dragonite(3) <-- CURSOR
+Dragonite(3) wins!

@@ -1,0 +1,8 @@
+Welcome to Pokemon Hot Potato v1.0 :)
+Number of players: 1, Seed: NO SEED!
+
+ROUND 1
+========
+1 player/s remain:
+Alakazam(0) <-- CURSOR
+Alakazam(0) wins!

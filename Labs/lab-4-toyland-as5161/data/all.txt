@@ -1,0 +1,25 @@
+KITE Cometa RED DELTA 100
+RC_PLANE F-14_Tomcat 120 350
+PLAY_DOUGH Play-Doh GREEN
+DOLL GabbyGabby RED 6 Will_you_be_my_friend?
+ACTION_FIGURE HongKongPhooey 35 Number_one_super_guy!
+KITE Pipa RED DIAMOND 500
+ACTION_FIGURE Animal 27 BEAT_DRUMS!
+ACTION_FIGURE He-man 30 By_the_power_of_Grayskull!
+KITE Tako YELLOW ROKKAKUS 300
+DOLL ChattyCathy BLACK 7 Lets_play_house!
+ACTION_FIGURE Michelangelo 16 Cowabunga!
+RC_PLANE Darkstar 100 400
+DOLL Chucky ORANGE 6 I'm_your_friend_til_the_end!
+RC_PLANE MiG-28 80 300
+RC_PLANE F/A-18_Hornet 90 380
+PLAY_DOUGH Play-Doh YELLOW
+RC_PLANE Skyhawk 100 420
+KITE Saranggola BLUE STUNT 450
+PLAY_DOUGH Doh-Doh BROWN
+KITE Aquilone WHITE PARAFOIL 250
+PLAY_DOUGH Clay-Dough RED
+PLAY_DOUGH Crafty PURPLE
+DOLL Jessicake BLUE 9 Lets'_go_shopping!
+DOLL Barbie YELLOW 18 We_can_do_anything!
+ACTION_FIGURE Scarlett 21 Yo_joe!

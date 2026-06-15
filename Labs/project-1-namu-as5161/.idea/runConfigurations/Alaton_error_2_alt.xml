@@ -1,0 +1,16 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Alaton error-2.alt" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="machine.Alaton" />
+    <module name="Namu" />
+    <option name="PROGRAM_PARAMETERS" value="alaton/error-2.alt" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="common.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

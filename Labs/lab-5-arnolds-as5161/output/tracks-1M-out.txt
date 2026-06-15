@@ -1,0 +1,35 @@
+Loading the jukebox with songs:
+	Reading songs from tracks-1M.txt into jukebox...
+	Jukebox is loaded with 926096 songs
+	First song in jukebox: Artist: Ella Fitzgerald & Louis Armstrong, Title: Moonlight In Vermont
+	Last song in jukebox: Artist: Pointed Sticks, Title: Real Thing
+Running the simulation.  The jukebox starts rockin'!
+	Printing first 5 songs played...
+		Artist: Atomic Opera, Title: My Head
+		Artist: Dave Valentin, Title: San Juan
+		Artist: Beastie Boys, Title: Crawlspace
+		Artist: Kelly Marie, Title: If I Can't Have You
+		Artist: Delaney Bramlett, Title: Over And Over
+	Simulation took 112 second/s to run
+Displaying simulation statistics:
+	Number of simulations run: 200000
+	Total number of songs played: 241144968
+	Average number of songs played per simulation to get duplicate: 1206
+	Most played song: "Backshift Lady" by "Ruff Stuff"
+	All songs alphabetically by "Ruff Stuff":
+		"Baby Smiles" with 235 plays
+		"Backshift Lady" with 339 plays
+		"Been There_ Done That" with 254 plays
+		"Brain Strain" with 245 plays
+		"Bridges Burnin'" with 263 plays
+		"Eight Day Run" with 254 plays
+		"Heaven N' Moonlite" with 294 plays
+		"Intro-Mission:Telstar/Outer Limits" with 248 plays
+		"Jus D'Fax" with 243 plays
+		"Livin' In the Country Club" with 254 plays
+		"Red River Blues" with 241 plays
+		"Sand Flea Blues" with 262 plays
+		"Southern Fried Cookin'" with 263 plays
+		"Sweet Thang" with 267 plays
+		"Warning (Club Mix)" with 275 plays
+	Most played artist: "Beastie Boys" with 46468 plays

@@ -1,0 +1,287 @@
+PLAYING(40): Toy{PC:400, N:Cometa, H:0, R:false, W:0.0}, Flying{MA:100.0, CA:0.0}, Kite{C:RED, T:DELTA, LL:100}
+	Cometa took off!
+	Cometa current altitude: 20.0 feet
+	Flying the RED, DELTA kite Cometa with 100 feets of line
+PLAYING(23): Toy{PC:300, N:F-14_Tomcat, H:0, R:false, W:0.0}, Flying{MA:350.0, CA:0.0}, RCPlane{S:15.0}
+	F-14_Tomcat took off!
+	F-14_Tomcat current altitude: 115.0 feet
+	F-14_Tomcat current speed: 61.0 mph
+PLAYING(38): Toy{PC:100, N:Play-Doh, H:0, R:false, W:0.0}, PlayDough{C:GREEN}
+	Arts and crafting with GREEN Play-Doh
+PLAYING(34): Toy{PC:200, N:GabbyGabby, H:0, R:false, W:0.0}, Doll{HC:RED, A:6, S:Will_you_be_my_friend?}
+	GabbyGabby brushes their RED hair and says, "Will_you_be_my_friend?"
+PLAYING(20): Toy{PC:500, N:HongKongPhooey, H:0, R:false, W:0.0}, Doll{HC:ORANGE, A:35, S:Number_one_super_guy!}, ActionFigure{E:1}
+	HongKongPhooey kung foo chops with 20 energy!
+	HongKongPhooey brushes their ORANGE hair and says, "Number_one_super_guy!"
+PLAYING(45): Toy{PC:401, N:Pipa, H:0, R:false, W:0.0}, Flying{MA:500.0, CA:0.0}, Kite{C:RED, T:DIAMOND, LL:500}
+	Pipa took off!
+	Pipa current altitude: 22.5 feet
+	Flying the RED, DIAMOND kite Pipa with 500 feets of line
+PLAYING(25): Toy{PC:501, N:Animal, H:0, R:false, W:0.0}, Doll{HC:ORANGE, A:27, S:BEAT_DRUMS!}, ActionFigure{E:1}
+	Animal kung foo chops with 25 energy!
+	Animal brushes their ORANGE hair and says, "BEAT_DRUMS!"
+PLAYING(28): Toy{PC:502, N:He-man, H:0, R:false, W:0.0}, Doll{HC:ORANGE, A:30, S:By_the_power_of_Grayskull!}, ActionFigure{E:1}
+	He-man kung foo chops with 28 energy!
+	He-man brushes their ORANGE hair and says, "By_the_power_of_Grayskull!"
+PLAYING(39): Toy{PC:402, N:Tako, H:0, R:false, W:0.0}, Flying{MA:300.0, CA:0.0}, Kite{C:YELLOW, T:ROKKAKUS, LL:300}
+	Tako took off!
+	Tako current altitude: 19.5 feet
+	Flying the YELLOW, ROKKAKUS kite Tako with 300 feets of line
+PLAYING(43): Toy{PC:201, N:ChattyCathy, H:0, R:false, W:0.0}, Doll{HC:BLACK, A:7, S:Lets_play_house!}
+	ChattyCathy brushes their BLACK hair and says, "Lets_play_house!"
+PLAYING(22): Toy{PC:503, N:Michelangelo, H:0, R:false, W:0.0}, Doll{HC:ORANGE, A:16, S:Cowabunga!}, ActionFigure{E:1}
+	Michelangelo kung foo chops with 22 energy!
+	Michelangelo brushes their ORANGE hair and says, "Cowabunga!"
+PLAYING(22): Toy{PC:301, N:Darkstar, H:0, R:false, W:0.0}, Flying{MA:400.0, CA:0.0}, RCPlane{S:15.0}
+	Darkstar took off!
+	Darkstar current altitude: 110.0 feet
+	Darkstar current speed: 59.0 mph
+PLAYING(26): Toy{PC:202, N:Chucky, H:0, R:false, W:0.0}, Doll{HC:ORANGE, A:6, S:I'm_your_friend_til_the_end!}
+	Chucky brushes their ORANGE hair and says, "I'm_your_friend_til_the_end!"
+PLAYING(32): Toy{PC:302, N:MiG-28, H:0, R:false, W:0.0}, Flying{MA:300.0, CA:0.0}, RCPlane{S:15.0}
+	MiG-28 took off!
+	MiG-28 current altitude: 160.0 feet
+	MiG-28 current speed: 79.0 mph
+PLAYING(46): Toy{PC:303, N:F/A-18_Hornet, H:0, R:false, W:0.0}, Flying{MA:380.0, CA:0.0}, RCPlane{S:15.0}
+	F/A-18_Hornet took off!
+	F/A-18_Hornet current altitude: 230.0 feet
+	F/A-18_Hornet current speed: 90.0 mph
+PLAYING(22): Toy{PC:101, N:Play-Doh, H:0, R:false, W:0.0}, PlayDough{C:YELLOW}
+	Arts and crafting with YELLOW Play-Doh
+PLAYING(26): Toy{PC:304, N:Skyhawk, H:0, R:false, W:0.0}, Flying{MA:420.0, CA:0.0}, RCPlane{S:15.0}
+	Skyhawk took off!
+	Skyhawk current altitude: 130.0 feet
+	Skyhawk current speed: 67.0 mph
+PLAYING(20): Toy{PC:403, N:Saranggola, H:0, R:false, W:0.0}, Flying{MA:450.0, CA:0.0}, Kite{C:BLUE, T:STUNT, LL:450}
+	Saranggola took off!
+	Saranggola current altitude: 10.0 feet
+	Flying the BLUE, STUNT kite Saranggola with 450 feets of line
+PLAYING(33): Toy{PC:102, N:Doh-Doh, H:0, R:false, W:0.0}, PlayDough{C:BROWN}
+	Arts and crafting with BROWN Doh-Doh
+PLAYING(49): Toy{PC:404, N:Aquilone, H:0, R:false, W:0.0}, Flying{MA:250.0, CA:0.0}, Kite{C:WHITE, T:PARAFOIL, LL:250}
+	Aquilone took off!
+	Aquilone current altitude: 24.5 feet
+	Flying the WHITE, PARAFOIL kite Aquilone with 250 feets of line
+PLAYING(40): Toy{PC:103, N:Clay-Dough, H:0, R:false, W:0.0}, PlayDough{C:RED}
+	Arts and crafting with RED Clay-Dough
+PLAYING(33): Toy{PC:104, N:Crafty, H:0, R:false, W:0.0}, PlayDough{C:PURPLE}
+	Arts and crafting with PURPLE Crafty
+PLAYING(46): Toy{PC:203, N:Jessicake, H:0, R:false, W:0.0}, Doll{HC:BLUE, A:9, S:Lets'_go_shopping!}
+	Jessicake brushes their BLUE hair and says, "Lets'_go_shopping!"
+PLAYING(23): Toy{PC:204, N:Barbie, H:0, R:false, W:0.0}, Doll{HC:YELLOW, A:18, S:We_can_do_anything!}
+	Barbie brushes their YELLOW hair and says, "We_can_do_anything!"
+PLAYING(43): Toy{PC:504, N:Scarlett, H:0, R:false, W:0.0}, Doll{HC:ORANGE, A:21, S:Yo_joe!}, ActionFigure{E:1}
+	Scarlett kung foo chops with 43 energy!
+	Scarlett brushes their ORANGE hair and says, "Yo_joe!"
+PLAYING(41): Toy{PC:400, N:Cometa, H:40, R:false, W:2.0}, Flying{MA:100.0, CA:20.0}, Kite{C:RED, T:DELTA, LL:100}
+	Cometa current altitude: 40.5 feet
+	Flying the RED, DELTA kite Cometa with 100 feets of line
+PLAYING(30): Toy{PC:300, N:F-14_Tomcat, H:23, R:false, W:15.0}, Flying{MA:350.0, CA:115.0}, RCPlane{S:61.0}
+	F-14_Tomcat current altitude: 265.0 feet
+	F-14_Tomcat current speed: 120.0 mph
+PLAYING(48): Toy{PC:100, N:Play-Doh, H:38, R:false, W:1.9000000000000001}, PlayDough{C:GREEN}
+	Arts and crafting with GREEN Play-Doh
+PLAYING(27): Toy{PC:200, N:GabbyGabby, H:34, R:false, W:6.0}, Doll{HC:RED, A:6, S:Will_you_be_my_friend?}
+	GabbyGabby brushes their RED hair and says, "Will_you_be_my_friend?"
+PLAYING(26): Toy{PC:500, N:HongKongPhooey, H:20, R:false, W:35.0}, Doll{HC:ORANGE, A:35, S:Number_one_super_guy!}, ActionFigure{E:2}
+	HongKongPhooey kung foo chops with 52 energy!
+	HongKongPhooey brushes their ORANGE hair and says, "Number_one_super_guy!"
+PLAYING(30): Toy{PC:401, N:Pipa, H:45, R:false, W:2.25}, Flying{MA:500.0, CA:22.5}, Kite{C:RED, T:DIAMOND, LL:500}
+	Pipa current altitude: 37.5 feet
+	Flying the RED, DIAMOND kite Pipa with 500 feets of line
+PLAYING(26): Toy{PC:501, N:Animal, H:25, R:false, W:27.0}, Doll{HC:ORANGE, A:27, S:BEAT_DRUMS!}, ActionFigure{E:2}
+	Animal kung foo chops with 52 energy!
+	Animal brushes their ORANGE hair and says, "BEAT_DRUMS!"
+PLAYING(40): Toy{PC:502, N:He-man, H:28, R:false, W:30.0}, Doll{HC:ORANGE, A:30, S:By_the_power_of_Grayskull!}, ActionFigure{E:2}
+	He-man kung foo chops with 80 energy!
+	He-man brushes their ORANGE hair and says, "By_the_power_of_Grayskull!"
+PLAYING(25): Toy{PC:402, N:Tako, H:39, R:false, W:1.9500000000000002}, Flying{MA:300.0, CA:19.5}, Kite{C:YELLOW, T:ROKKAKUS, LL:300}
+	Tako current altitude: 32.0 feet
+	Flying the YELLOW, ROKKAKUS kite Tako with 300 feets of line
+PLAYING(37): Toy{PC:201, N:ChattyCathy, H:43, R:false, W:7.0}, Doll{HC:BLACK, A:7, S:Lets_play_house!}
+	ChattyCathy brushes their BLACK hair and says, "Lets_play_house!"
+PLAYING(37): Toy{PC:503, N:Michelangelo, H:22, R:false, W:16.0}, Doll{HC:ORANGE, A:16, S:Cowabunga!}, ActionFigure{E:2}
+	Michelangelo kung foo chops with 74 energy!
+	Michelangelo brushes their ORANGE hair and says, "Cowabunga!"
+PLAYING(32): Toy{PC:301, N:Darkstar, H:22, R:false, W:15.0}, Flying{MA:400.0, CA:110.0}, RCPlane{S:59.0}
+	Darkstar current altitude: 270.0 feet
+	Darkstar current speed: 100.0 mph
+PLAYING(33): Toy{PC:202, N:Chucky, H:26, R:false, W:6.0}, Doll{HC:ORANGE, A:6, S:I'm_your_friend_til_the_end!}
+	Chucky brushes their ORANGE hair and says, "I'm_your_friend_til_the_end!"
+PLAYING(33): Toy{PC:302, N:MiG-28, H:32, R:false, W:15.0}, Flying{MA:300.0, CA:160.0}, RCPlane{S:79.0}
+	MiG-28 current altitude: 300.0 feet
+	MiG-28 current speed: 80.0 mph
+PLAYING(44): Toy{PC:303, N:F/A-18_Hornet, H:46, R:false, W:15.0}, Flying{MA:380.0, CA:230.0}, RCPlane{S:90.0}
+	F/A-18_Hornet current altitude: 380.0 feet
+	F/A-18_Hornet current speed: 90.0 mph
+PLAYING(49): Toy{PC:101, N:Play-Doh, H:22, R:false, W:1.1}, PlayDough{C:YELLOW}
+	Arts and crafting with YELLOW Play-Doh
+PLAYING(45): Toy{PC:304, N:Skyhawk, H:26, R:false, W:15.0}, Flying{MA:420.0, CA:130.0}, RCPlane{S:67.0}
+	Skyhawk current altitude: 355.0 feet
+	Skyhawk current speed: 100.0 mph
+PLAYING(43): Toy{PC:403, N:Saranggola, H:20, R:false, W:1.0}, Flying{MA:450.0, CA:10.0}, Kite{C:BLUE, T:STUNT, LL:450}
+	Saranggola current altitude: 31.5 feet
+	Flying the BLUE, STUNT kite Saranggola with 450 feets of line
+PLAYING(27): Toy{PC:102, N:Doh-Doh, H:33, R:false, W:1.6500000000000001}, PlayDough{C:BROWN}
+	Arts and crafting with BROWN Doh-Doh
+PLAYING(25): Toy{PC:404, N:Aquilone, H:49, R:false, W:2.45}, Flying{MA:250.0, CA:24.5}, Kite{C:WHITE, T:PARAFOIL, LL:250}
+	Aquilone current altitude: 37.0 feet
+	Flying the WHITE, PARAFOIL kite Aquilone with 250 feets of line
+PLAYING(44): Toy{PC:103, N:Clay-Dough, H:40, R:false, W:2.0}, PlayDough{C:RED}
+	Arts and crafting with RED Clay-Dough
+PLAYING(27): Toy{PC:104, N:Crafty, H:33, R:false, W:1.6500000000000001}, PlayDough{C:PURPLE}
+	Arts and crafting with PURPLE Crafty
+PLAYING(25): Toy{PC:203, N:Jessicake, H:46, R:false, W:9.0}, Doll{HC:BLUE, A:9, S:Lets'_go_shopping!}
+	Jessicake brushes their BLUE hair and says, "Lets'_go_shopping!"
+PLAYING(27): Toy{PC:204, N:Barbie, H:23, R:false, W:18.0}, Doll{HC:YELLOW, A:18, S:We_can_do_anything!}
+	Barbie brushes their YELLOW hair and says, "We_can_do_anything!"
+PLAYING(33): Toy{PC:504, N:Scarlett, H:43, R:false, W:21.0}, Doll{HC:ORANGE, A:21, S:Yo_joe!}, ActionFigure{E:2}
+	Scarlett kung foo chops with 66 energy!
+	Scarlett brushes their ORANGE hair and says, "Yo_joe!"
+PLAYING(33): Toy{PC:400, N:Cometa, H:81, R:false, W:4.050000000000001}, Flying{MA:100.0, CA:40.5}, Kite{C:RED, T:DELTA, LL:100}
+	Cometa current altitude: 57.0 feet
+	Flying the RED, DELTA kite Cometa with 100 feets of line
+RETIRED: Toy{PC:400, N:Cometa, H:114, R:true, W:5.700000000000001}, Flying{MA:100.0, CA:57.0}, Kite{C:RED, T:DELTA, LL:100}
+PLAYING(40): Toy{PC:300, N:F-14_Tomcat, H:53, R:false, W:76.0}, Flying{MA:350.0, CA:265.0}, RCPlane{S:120.0}
+	F-14_Tomcat current altitude: 350.0 feet
+	F-14_Tomcat current speed: 120.0 mph
+PLAYING(28): Toy{PC:100, N:Play-Doh, H:86, R:false, W:4.300000000000001}, PlayDough{C:GREEN}
+	Arts and crafting with GREEN Play-Doh
+RETIRED: Toy{PC:100, N:Play-Doh, H:114, R:true, W:5.700000000000001}, PlayDough{C:GREEN}
+PLAYING(36): Toy{PC:200, N:GabbyGabby, H:61, R:false, W:12.0}, Doll{HC:RED, A:6, S:Will_you_be_my_friend?}
+	GabbyGabby brushes their RED hair and says, "Will_you_be_my_friend?"
+PLAYING(40): Toy{PC:500, N:HongKongPhooey, H:46, R:false, W:70.0}, Doll{HC:ORANGE, A:35, S:Number_one_super_guy!}, ActionFigure{E:3}
+	HongKongPhooey kung foo chops with 120 energy!
+	HongKongPhooey brushes their ORANGE hair and says, "Number_one_super_guy!"
+PLAYING(30): Toy{PC:401, N:Pipa, H:75, R:false, W:3.75}, Flying{MA:500.0, CA:37.5}, Kite{C:RED, T:DIAMOND, LL:500}
+	Pipa current altitude: 52.5 feet
+	Flying the RED, DIAMOND kite Pipa with 500 feets of line
+RETIRED: Toy{PC:401, N:Pipa, H:105, R:true, W:5.25}, Flying{MA:500.0, CA:52.5}, Kite{C:RED, T:DIAMOND, LL:500}
+PLAYING(33): Toy{PC:501, N:Animal, H:51, R:false, W:54.0}, Doll{HC:ORANGE, A:27, S:BEAT_DRUMS!}, ActionFigure{E:3}
+	Animal kung foo chops with 99 energy!
+	Animal brushes their ORANGE hair and says, "BEAT_DRUMS!"
+PLAYING(39): Toy{PC:502, N:He-man, H:68, R:false, W:60.0}, Doll{HC:ORANGE, A:30, S:By_the_power_of_Grayskull!}, ActionFigure{E:3}
+	He-man kung foo chops with 117 energy!
+	He-man brushes their ORANGE hair and says, "By_the_power_of_Grayskull!"
+RETIRED: Toy{PC:502, N:He-man, H:107, R:true, W:90.0}, Doll{HC:ORANGE, A:30, S:By_the_power_of_Grayskull!}, ActionFigure{E:4}
+PLAYING(41): Toy{PC:402, N:Tako, H:64, R:false, W:3.2}, Flying{MA:300.0, CA:32.0}, Kite{C:YELLOW, T:ROKKAKUS, LL:300}
+	Tako current altitude: 52.5 feet
+	Flying the YELLOW, ROKKAKUS kite Tako with 300 feets of line
+RETIRED: Toy{PC:402, N:Tako, H:105, R:true, W:5.25}, Flying{MA:300.0, CA:52.5}, Kite{C:YELLOW, T:ROKKAKUS, LL:300}
+PLAYING(23): Toy{PC:201, N:ChattyCathy, H:80, R:false, W:14.0}, Doll{HC:BLACK, A:7, S:Lets_play_house!}
+	ChattyCathy brushes their BLACK hair and says, "Lets_play_house!"
+RETIRED: Toy{PC:201, N:ChattyCathy, H:103, R:true, W:21.0}, Doll{HC:BLACK, A:7, S:Lets_play_house!}
+PLAYING(27): Toy{PC:503, N:Michelangelo, H:59, R:false, W:32.0}, Doll{HC:ORANGE, A:16, S:Cowabunga!}, ActionFigure{E:3}
+	Michelangelo kung foo chops with 81 energy!
+	Michelangelo brushes their ORANGE hair and says, "Cowabunga!"
+PLAYING(49): Toy{PC:301, N:Darkstar, H:54, R:false, W:74.0}, Flying{MA:400.0, CA:270.0}, RCPlane{S:100.0}
+	Darkstar current altitude: 400.0 feet
+	Darkstar current speed: 100.0 mph
+RETIRED: Toy{PC:301, N:Darkstar, H:103, R:true, W:174.0}, Flying{MA:400.0, CA:400.0}, RCPlane{S:100.0}
+PLAYING(22): Toy{PC:202, N:Chucky, H:59, R:false, W:12.0}, Doll{HC:ORANGE, A:6, S:I'm_your_friend_til_the_end!}
+	Chucky brushes their ORANGE hair and says, "I'm_your_friend_til_the_end!"
+PLAYING(21): Toy{PC:302, N:MiG-28, H:65, R:false, W:94.0}, Flying{MA:300.0, CA:300.0}, RCPlane{S:80.0}
+	MiG-28 current altitude: 300.0 feet
+	MiG-28 current speed: 80.0 mph
+PLAYING(34): Toy{PC:303, N:F/A-18_Hornet, H:90, R:false, W:105.0}, Flying{MA:380.0, CA:380.0}, RCPlane{S:90.0}
+	F/A-18_Hornet current altitude: 380.0 feet
+	F/A-18_Hornet current speed: 90.0 mph
+RETIRED: Toy{PC:303, N:F/A-18_Hornet, H:124, R:true, W:195.0}, Flying{MA:380.0, CA:380.0}, RCPlane{S:90.0}
+PLAYING(34): Toy{PC:101, N:Play-Doh, H:71, R:false, W:3.5500000000000003}, PlayDough{C:YELLOW}
+	Arts and crafting with YELLOW Play-Doh
+RETIRED: Toy{PC:101, N:Play-Doh, H:105, R:true, W:5.25}, PlayDough{C:YELLOW}
+PLAYING(28): Toy{PC:304, N:Skyhawk, H:71, R:false, W:82.0}, Flying{MA:420.0, CA:355.0}, RCPlane{S:100.0}
+	Skyhawk current altitude: 420.0 feet
+	Skyhawk current speed: 100.0 mph
+PLAYING(39): Toy{PC:403, N:Saranggola, H:63, R:false, W:3.15}, Flying{MA:450.0, CA:31.5}, Kite{C:BLUE, T:STUNT, LL:450}
+	Saranggola current altitude: 51.0 feet
+	Flying the BLUE, STUNT kite Saranggola with 450 feets of line
+RETIRED: Toy{PC:403, N:Saranggola, H:102, R:true, W:5.1}, Flying{MA:450.0, CA:51.0}, Kite{C:BLUE, T:STUNT, LL:450}
+PLAYING(35): Toy{PC:102, N:Doh-Doh, H:60, R:false, W:3.0}, PlayDough{C:BROWN}
+	Arts and crafting with BROWN Doh-Doh
+PLAYING(29): Toy{PC:404, N:Aquilone, H:74, R:false, W:3.7}, Flying{MA:250.0, CA:37.0}, Kite{C:WHITE, T:PARAFOIL, LL:250}
+	Aquilone current altitude: 51.5 feet
+	Flying the WHITE, PARAFOIL kite Aquilone with 250 feets of line
+RETIRED: Toy{PC:404, N:Aquilone, H:103, R:true, W:5.15}, Flying{MA:250.0, CA:51.5}, Kite{C:WHITE, T:PARAFOIL, LL:250}
+PLAYING(30): Toy{PC:103, N:Clay-Dough, H:84, R:false, W:4.2}, PlayDough{C:RED}
+	Arts and crafting with RED Clay-Dough
+RETIRED: Toy{PC:103, N:Clay-Dough, H:114, R:true, W:5.7}, PlayDough{C:RED}
+PLAYING(31): Toy{PC:104, N:Crafty, H:60, R:false, W:3.0}, PlayDough{C:PURPLE}
+	Arts and crafting with PURPLE Crafty
+PLAYING(33): Toy{PC:203, N:Jessicake, H:71, R:false, W:18.0}, Doll{HC:BLUE, A:9, S:Lets'_go_shopping!}
+	Jessicake brushes their BLUE hair and says, "Lets'_go_shopping!"
+RETIRED: Toy{PC:203, N:Jessicake, H:104, R:true, W:27.0}, Doll{HC:BLUE, A:9, S:Lets'_go_shopping!}
+PLAYING(39): Toy{PC:204, N:Barbie, H:50, R:false, W:36.0}, Doll{HC:YELLOW, A:18, S:We_can_do_anything!}
+	Barbie brushes their YELLOW hair and says, "We_can_do_anything!"
+PLAYING(33): Toy{PC:504, N:Scarlett, H:76, R:false, W:42.0}, Doll{HC:ORANGE, A:21, S:Yo_joe!}, ActionFigure{E:3}
+	Scarlett kung foo chops with 99 energy!
+	Scarlett brushes their ORANGE hair and says, "Yo_joe!"
+RETIRED: Toy{PC:504, N:Scarlett, H:109, R:true, W:63.0}, Doll{HC:ORANGE, A:21, S:Yo_joe!}, ActionFigure{E:4}
+PLAYING(43): Toy{PC:300, N:F-14_Tomcat, H:93, R:false, W:196.0}, Flying{MA:350.0, CA:350.0}, RCPlane{S:120.0}
+	F-14_Tomcat current altitude: 350.0 feet
+	F-14_Tomcat current speed: 120.0 mph
+RETIRED: Toy{PC:300, N:F-14_Tomcat, H:136, R:true, W:316.0}, Flying{MA:350.0, CA:350.0}, RCPlane{S:120.0}
+PLAYING(46): Toy{PC:200, N:GabbyGabby, H:97, R:false, W:18.0}, Doll{HC:RED, A:6, S:Will_you_be_my_friend?}
+	GabbyGabby brushes their RED hair and says, "Will_you_be_my_friend?"
+RETIRED: Toy{PC:200, N:GabbyGabby, H:143, R:true, W:24.0}, Doll{HC:RED, A:6, S:Will_you_be_my_friend?}
+PLAYING(30): Toy{PC:500, N:HongKongPhooey, H:86, R:false, W:105.0}, Doll{HC:ORANGE, A:35, S:Number_one_super_guy!}, ActionFigure{E:4}
+	HongKongPhooey kung foo chops with 120 energy!
+	HongKongPhooey brushes their ORANGE hair and says, "Number_one_super_guy!"
+RETIRED: Toy{PC:500, N:HongKongPhooey, H:116, R:true, W:140.0}, Doll{HC:ORANGE, A:35, S:Number_one_super_guy!}, ActionFigure{E:5}
+PLAYING(25): Toy{PC:501, N:Animal, H:84, R:false, W:81.0}, Doll{HC:ORANGE, A:27, S:BEAT_DRUMS!}, ActionFigure{E:4}
+	Animal kung foo chops with 100 energy!
+	Animal brushes their ORANGE hair and says, "BEAT_DRUMS!"
+RETIRED: Toy{PC:501, N:Animal, H:109, R:true, W:108.0}, Doll{HC:ORANGE, A:27, S:BEAT_DRUMS!}, ActionFigure{E:5}
+PLAYING(23): Toy{PC:503, N:Michelangelo, H:86, R:false, W:48.0}, Doll{HC:ORANGE, A:16, S:Cowabunga!}, ActionFigure{E:4}
+	Michelangelo kung foo chops with 92 energy!
+	Michelangelo brushes their ORANGE hair and says, "Cowabunga!"
+RETIRED: Toy{PC:503, N:Michelangelo, H:109, R:true, W:64.0}, Doll{HC:ORANGE, A:16, S:Cowabunga!}, ActionFigure{E:5}
+PLAYING(20): Toy{PC:202, N:Chucky, H:81, R:false, W:18.0}, Doll{HC:ORANGE, A:6, S:I'm_your_friend_til_the_end!}
+	Chucky brushes their ORANGE hair and says, "I'm_your_friend_til_the_end!"
+RETIRED: Toy{PC:202, N:Chucky, H:101, R:true, W:24.0}, Doll{HC:ORANGE, A:6, S:I'm_your_friend_til_the_end!}
+PLAYING(24): Toy{PC:302, N:MiG-28, H:86, R:false, W:174.0}, Flying{MA:300.0, CA:300.0}, RCPlane{S:80.0}
+	MiG-28 current altitude: 300.0 feet
+	MiG-28 current speed: 80.0 mph
+RETIRED: Toy{PC:302, N:MiG-28, H:110, R:true, W:254.0}, Flying{MA:300.0, CA:300.0}, RCPlane{S:80.0}
+PLAYING(43): Toy{PC:304, N:Skyhawk, H:99, R:false, W:182.0}, Flying{MA:420.0, CA:420.0}, RCPlane{S:100.0}
+	Skyhawk current altitude: 420.0 feet
+	Skyhawk current speed: 100.0 mph
+RETIRED: Toy{PC:304, N:Skyhawk, H:142, R:true, W:282.0}, Flying{MA:420.0, CA:420.0}, RCPlane{S:100.0}
+PLAYING(22): Toy{PC:102, N:Doh-Doh, H:95, R:false, W:4.75}, PlayDough{C:BROWN}
+	Arts and crafting with BROWN Doh-Doh
+RETIRED: Toy{PC:102, N:Doh-Doh, H:117, R:true, W:5.85}, PlayDough{C:BROWN}
+PLAYING(27): Toy{PC:104, N:Crafty, H:91, R:false, W:4.55}, PlayDough{C:PURPLE}
+	Arts and crafting with PURPLE Crafty
+RETIRED: Toy{PC:104, N:Crafty, H:118, R:true, W:5.9}, PlayDough{C:PURPLE}
+PLAYING(23): Toy{PC:204, N:Barbie, H:89, R:false, W:54.0}, Doll{HC:YELLOW, A:18, S:We_can_do_anything!}
+	Barbie brushes their YELLOW hair and says, "We_can_do_anything!"
+RETIRED: Toy{PC:204, N:Barbie, H:112, R:true, W:72.0}, Doll{HC:YELLOW, A:18, S:We_can_do_anything!}
+Retired toys:
+	Toy{PC:400, N:Cometa, H:114, R:true, W:5.700000000000001}, Flying{MA:100.0, CA:57.0}, Kite{C:RED, T:DELTA, LL:100}
+	Toy{PC:100, N:Play-Doh, H:114, R:true, W:5.700000000000001}, PlayDough{C:GREEN}
+	Toy{PC:401, N:Pipa, H:105, R:true, W:5.25}, Flying{MA:500.0, CA:52.5}, Kite{C:RED, T:DIAMOND, LL:500}
+	Toy{PC:502, N:He-man, H:107, R:true, W:90.0}, Doll{HC:ORANGE, A:30, S:By_the_power_of_Grayskull!}, ActionFigure{E:4}
+	Toy{PC:402, N:Tako, H:105, R:true, W:5.25}, Flying{MA:300.0, CA:52.5}, Kite{C:YELLOW, T:ROKKAKUS, LL:300}
+	Toy{PC:201, N:ChattyCathy, H:103, R:true, W:21.0}, Doll{HC:BLACK, A:7, S:Lets_play_house!}
+	Toy{PC:301, N:Darkstar, H:103, R:true, W:174.0}, Flying{MA:400.0, CA:400.0}, RCPlane{S:100.0}
+	Toy{PC:303, N:F/A-18_Hornet, H:124, R:true, W:195.0}, Flying{MA:380.0, CA:380.0}, RCPlane{S:90.0}
+	Toy{PC:101, N:Play-Doh, H:105, R:true, W:5.25}, PlayDough{C:YELLOW}
+	Toy{PC:403, N:Saranggola, H:102, R:true, W:5.1}, Flying{MA:450.0, CA:51.0}, Kite{C:BLUE, T:STUNT, LL:450}
+	Toy{PC:404, N:Aquilone, H:103, R:true, W:5.15}, Flying{MA:250.0, CA:51.5}, Kite{C:WHITE, T:PARAFOIL, LL:250}
+	Toy{PC:103, N:Clay-Dough, H:114, R:true, W:5.7}, PlayDough{C:RED}
+	Toy{PC:203, N:Jessicake, H:104, R:true, W:27.0}, Doll{HC:BLUE, A:9, S:Lets'_go_shopping!}
+	Toy{PC:504, N:Scarlett, H:109, R:true, W:63.0}, Doll{HC:ORANGE, A:21, S:Yo_joe!}, ActionFigure{E:4}
+	Toy{PC:300, N:F-14_Tomcat, H:136, R:true, W:316.0}, Flying{MA:350.0, CA:350.0}, RCPlane{S:120.0}
+	Toy{PC:200, N:GabbyGabby, H:143, R:true, W:24.0}, Doll{HC:RED, A:6, S:Will_you_be_my_friend?}
+	Toy{PC:500, N:HongKongPhooey, H:116, R:true, W:140.0}, Doll{HC:ORANGE, A:35, S:Number_one_super_guy!}, ActionFigure{E:5}
+	Toy{PC:501, N:Animal, H:109, R:true, W:108.0}, Doll{HC:ORANGE, A:27, S:BEAT_DRUMS!}, ActionFigure{E:5}
+	Toy{PC:503, N:Michelangelo, H:109, R:true, W:64.0}, Doll{HC:ORANGE, A:16, S:Cowabunga!}, ActionFigure{E:5}
+	Toy{PC:202, N:Chucky, H:101, R:true, W:24.0}, Doll{HC:ORANGE, A:6, S:I'm_your_friend_til_the_end!}
+	Toy{PC:302, N:MiG-28, H:110, R:true, W:254.0}, Flying{MA:300.0, CA:300.0}, RCPlane{S:80.0}
+	Toy{PC:304, N:Skyhawk, H:142, R:true, W:282.0}, Flying{MA:420.0, CA:420.0}, RCPlane{S:100.0}
+	Toy{PC:102, N:Doh-Doh, H:117, R:true, W:5.85}, PlayDough{C:BROWN}
+	Toy{PC:104, N:Crafty, H:118, R:true, W:5.9}, PlayDough{C:PURPLE}
+	Toy{PC:204, N:Barbie, H:112, R:true, W:72.0}, Doll{HC:YELLOW, A:18, S:We_can_do_anything!}
+Total toys: 25
+Total happiness: 2825
+Average wear: 76.354

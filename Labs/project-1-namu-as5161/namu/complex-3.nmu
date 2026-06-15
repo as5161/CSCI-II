@@ -1,0 +1,10 @@
+= a 1
+= b 3
+= c -4
+= negB ! b
+= bSquared * b b
+= fourAC * 4 * a c
+= numerator + ! negB $ - bSquared fourAC
+= denominator * 2 a
+= result / numerator denominator
+@ result

@@ -1,0 +1,18 @@
+(ALT) Machine instructions:
+PUSH 625
+SQRT
+PRINT
+PUSH 5
+PUSH 109
+SQRT
+PRINT
+SQRT
+PRINT
+(ALT) Executing...
+25
+10
+2
+(ALT) Completed execution!
+(ALT) Symbol table:
+(ALT) Instruction stack:
+	EMPTY

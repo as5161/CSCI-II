@@ -1,0 +1,26 @@
+(ALT) Machine instructions:
+PUSH 3
+PUSH 2
+POW
+PRINT
+PUSH 1
+PUSH 4
+POW
+PRINT
+PUSH 2
+PUSH 4
+PUSH 3
+PUSH 5
+POW
+PRINT
+POW
+PRINT
+(ALT) Executing...
+9
+1
+243
+16
+(ALT) Completed execution!
+(ALT) Symbol table:
+(ALT) Instruction stack:
+	EMPTY

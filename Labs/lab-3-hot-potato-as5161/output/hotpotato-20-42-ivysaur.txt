@@ -1,0 +1,409 @@
+Welcome to Pokemon Hot Potato v1.0 :)
+Number of players: 20, Seed: 42
+
+ROUND 1
+========
+20 player/s remain:
+Alakazam(0) <-- CURSOR
+Bulbasaur(1)
+Charmander(2)
+Dragonite(3)
+Eevee(4)
+Fennekin(5)
+Gyarados(6)
+Hitmonlee(7)
+Ivysaur(8)
+Jigglypuff(9)
+Kadabra(10)
+Lapras(11)
+Mewtwo(12)
+Nidoking(13)
+Onix(14)
+Pidgeot(15)
+Quilava(16)
+Raichu(17)
+Squirtle(18)
+Typhlosion(19)
+Passing potato 7 times RIGHT:
+	:Alakazam(0) has potato and passing RIGHT
+	:Bulbasaur(1) has potato and passing RIGHT
+	:Charmander(2) has potato and passing RIGHT
+	:Dragonite(3) has potato and passing RIGHT
+	:Eevee(4) has potato and passing RIGHT
+	:Fennekin(5) has potato and passing RIGHT
+	:Gyarados(6) has potato and passing RIGHT
+Hitmonlee(7) lost!
+
+ROUND 2
+========
+19 player/s remain:
+Alakazam(0)
+Bulbasaur(1)
+Charmander(2)
+Dragonite(3)
+Eevee(4)
+Fennekin(5)
+Gyarados(6)
+Ivysaur(8) <-- CURSOR
+Jigglypuff(9)
+Kadabra(10)
+Lapras(11)
+Mewtwo(12)
+Nidoking(13)
+Onix(14)
+Pidgeot(15)
+Quilava(16)
+Raichu(17)
+Squirtle(18)
+Typhlosion(19)
+Passing potato 4 times LEFT:
+	:Ivysaur(8) has potato and passing LEFT
+	:Gyarados(6) has potato and passing LEFT
+	:Fennekin(5) has potato and passing LEFT
+	:Eevee(4) has potato and passing LEFT
+Dragonite(3) lost!
+
+ROUND 3
+========
+18 player/s remain:
+Alakazam(0)
+Bulbasaur(1)
+Charmander(2) <-- CURSOR
+Eevee(4)
+Fennekin(5)
+Gyarados(6)
+Ivysaur(8)
+Jigglypuff(9)
+Kadabra(10)
+Lapras(11)
+Mewtwo(12)
+Nidoking(13)
+Onix(14)
+Pidgeot(15)
+Quilava(16)
+Raichu(17)
+Squirtle(18)
+Typhlosion(19)
+Passing potato 8 times RIGHT:
+	:Charmander(2) has potato and passing RIGHT
+	:Eevee(4) has potato and passing RIGHT
+	:Fennekin(5) has potato and passing RIGHT
+	:Gyarados(6) has potato and passing RIGHT
+	:Ivysaur(8) has potato and passing RIGHT
+	:Jigglypuff(9) has potato and passing RIGHT
+	:Kadabra(10) has potato and passing RIGHT
+	:Lapras(11) has potato and passing RIGHT
+Mewtwo(12) lost!
+
+ROUND 4
+========
+17 player/s remain:
+Alakazam(0)
+Bulbasaur(1)
+Charmander(2)
+Eevee(4)
+Fennekin(5)
+Gyarados(6)
+Ivysaur(8)
+Jigglypuff(9)
+Kadabra(10)
+Lapras(11)
+Nidoking(13) <-- CURSOR
+Onix(14)
+Pidgeot(15)
+Quilava(16)
+Raichu(17)
+Squirtle(18)
+Typhlosion(19)
+Passing potato 5 times LEFT:
+	:Nidoking(13) has potato and passing LEFT
+	:Lapras(11) has potato and passing LEFT
+	:Kadabra(10) has potato and passing LEFT
+	:Jigglypuff(9) has potato and passing LEFT
+	:Ivysaur(8) has potato and passing LEFT
+Gyarados(6) lost!
+
+ROUND 5
+========
+16 player/s remain:
+Alakazam(0)
+Bulbasaur(1)
+Charmander(2)
+Eevee(4)
+Fennekin(5) <-- CURSOR
+Ivysaur(8)
+Jigglypuff(9)
+Kadabra(10)
+Lapras(11)
+Nidoking(13)
+Onix(14)
+Pidgeot(15)
+Quilava(16)
+Raichu(17)
+Squirtle(18)
+Typhlosion(19)
+Passing potato 3 times RIGHT:
+	:Fennekin(5) has potato and passing RIGHT
+	:Ivysaur(8) has potato and passing RIGHT
+	:Jigglypuff(9) has potato and passing RIGHT
+Kadabra(10) lost!
+
+ROUND 6
+========
+15 player/s remain:
+Alakazam(0)
+Bulbasaur(1)
+Charmander(2)
+Eevee(4)
+Fennekin(5)
+Ivysaur(8)
+Jigglypuff(9)
+Lapras(11) <-- CURSOR
+Nidoking(13)
+Onix(14)
+Pidgeot(15)
+Quilava(16)
+Raichu(17)
+Squirtle(18)
+Typhlosion(19)
+Passing potato 8 times LEFT:
+	:Lapras(11) has potato and passing LEFT
+	:Jigglypuff(9) has potato and passing LEFT
+	:Ivysaur(8) has potato and passing LEFT
+	:Fennekin(5) has potato and passing LEFT
+	:Eevee(4) has potato and passing LEFT
+	:Charmander(2) has potato and passing LEFT
+	:Bulbasaur(1) has potato and passing LEFT
+	:Alakazam(0) has potato and passing LEFT
+Typhlosion(19) lost!
+
+ROUND 7
+========
+14 player/s remain:
+Alakazam(0)
+Bulbasaur(1)
+Charmander(2)
+Eevee(4)
+Fennekin(5)
+Ivysaur(8)
+Jigglypuff(9)
+Lapras(11)
+Nidoking(13)
+Onix(14)
+Pidgeot(15)
+Quilava(16)
+Raichu(17)
+Squirtle(18) <-- CURSOR
+Passing potato 1 times RIGHT:
+	:Squirtle(18) has potato and passing RIGHT
+Alakazam(0) lost!
+
+ROUND 8
+========
+13 player/s remain:
+Bulbasaur(1) <-- CURSOR
+Charmander(2)
+Eevee(4)
+Fennekin(5)
+Ivysaur(8)
+Jigglypuff(9)
+Lapras(11)
+Nidoking(13)
+Onix(14)
+Pidgeot(15)
+Quilava(16)
+Raichu(17)
+Squirtle(18)
+Passing potato 2 times LEFT:
+	:Bulbasaur(1) has potato and passing LEFT
+	:Squirtle(18) has potato and passing LEFT
+Raichu(17) lost!
+
+ROUND 9
+========
+12 player/s remain:
+Bulbasaur(1)
+Charmander(2)
+Eevee(4)
+Fennekin(5)
+Ivysaur(8)
+Jigglypuff(9)
+Lapras(11)
+Nidoking(13)
+Onix(14)
+Pidgeot(15)
+Quilava(16) <-- CURSOR
+Squirtle(18)
+Passing potato 10 times RIGHT:
+	:Quilava(16) has potato and passing RIGHT
+	:Squirtle(18) has potato and passing RIGHT
+	:Bulbasaur(1) has potato and passing RIGHT
+	:Charmander(2) has potato and passing RIGHT
+	:Eevee(4) has potato and passing RIGHT
+	:Fennekin(5) has potato and passing RIGHT
+	:Ivysaur(8) has potato and passing RIGHT
+	:Jigglypuff(9) has potato and passing RIGHT
+	:Lapras(11) has potato and passing RIGHT
+	:Nidoking(13) has potato and passing RIGHT
+Onix(14) lost!
+
+ROUND 10
+========
+11 player/s remain:
+Bulbasaur(1)
+Charmander(2)
+Eevee(4)
+Fennekin(5)
+Ivysaur(8)
+Jigglypuff(9)
+Lapras(11)
+Nidoking(13)
+Pidgeot(15) <-- CURSOR
+Quilava(16)
+Squirtle(18)
+Passing potato 6 times LEFT:
+	:Pidgeot(15) has potato and passing LEFT
+	:Nidoking(13) has potato and passing LEFT
+	:Lapras(11) has potato and passing LEFT
+	:Jigglypuff(9) has potato and passing LEFT
+	:Ivysaur(8) has potato and passing LEFT
+	:Fennekin(5) has potato and passing LEFT
+Eevee(4) lost!
+
+ROUND 11
+========
+10 player/s remain:
+Bulbasaur(1)
+Charmander(2) <-- CURSOR
+Fennekin(5)
+Ivysaur(8)
+Jigglypuff(9)
+Lapras(11)
+Nidoking(13)
+Pidgeot(15)
+Quilava(16)
+Squirtle(18)
+Passing potato 0 times RIGHT:
+Charmander(2) lost!
+
+ROUND 12
+========
+9 player/s remain:
+Bulbasaur(1)
+Fennekin(5) <-- CURSOR
+Ivysaur(8)
+Jigglypuff(9)
+Lapras(11)
+Nidoking(13)
+Pidgeot(15)
+Quilava(16)
+Squirtle(18)
+Passing potato 7 times LEFT:
+	:Fennekin(5) has potato and passing LEFT
+	:Bulbasaur(1) has potato and passing LEFT
+	:Squirtle(18) has potato and passing LEFT
+	:Quilava(16) has potato and passing LEFT
+	:Pidgeot(15) has potato and passing LEFT
+	:Nidoking(13) has potato and passing LEFT
+	:Lapras(11) has potato and passing LEFT
+Jigglypuff(9) lost!
+
+ROUND 13
+========
+8 player/s remain:
+Bulbasaur(1)
+Fennekin(5)
+Ivysaur(8) <-- CURSOR
+Lapras(11)
+Nidoking(13)
+Pidgeot(15)
+Quilava(16)
+Squirtle(18)
+Passing potato 2 times RIGHT:
+	:Ivysaur(8) has potato and passing RIGHT
+	:Lapras(11) has potato and passing RIGHT
+Nidoking(13) lost!
+
+ROUND 14
+========
+7 player/s remain:
+Bulbasaur(1)
+Fennekin(5)
+Ivysaur(8)
+Lapras(11)
+Pidgeot(15) <-- CURSOR
+Quilava(16)
+Squirtle(18)
+Passing potato 0 times LEFT:
+Pidgeot(15) lost!
+
+ROUND 15
+========
+6 player/s remain:
+Bulbasaur(1)
+Fennekin(5)
+Ivysaur(8)
+Lapras(11) <-- CURSOR
+Quilava(16)
+Squirtle(18)
+Passing potato 2 times RIGHT:
+	:Lapras(11) has potato and passing RIGHT
+	:Quilava(16) has potato and passing RIGHT
+Squirtle(18) lost!
+
+ROUND 16
+========
+5 player/s remain:
+Bulbasaur(1) <-- CURSOR
+Fennekin(5)
+Ivysaur(8)
+Lapras(11)
+Quilava(16)
+Passing potato 0 times LEFT:
+Bulbasaur(1) lost!
+
+ROUND 17
+========
+4 player/s remain:
+Fennekin(5)
+Ivysaur(8)
+Lapras(11)
+Quilava(16) <-- CURSOR
+Passing potato 4 times RIGHT:
+	:Quilava(16) has potato and passing RIGHT
+	:Fennekin(5) has potato and passing RIGHT
+	:Ivysaur(8) has potato and passing RIGHT
+	:Lapras(11) has potato and passing RIGHT
+Quilava(16) lost!
+
+ROUND 18
+========
+3 player/s remain:
+Fennekin(5) <-- CURSOR
+Ivysaur(8)
+Lapras(11)
+Passing potato 9 times LEFT:
+	:Fennekin(5) has potato and passing LEFT
+	:Lapras(11) has potato and passing LEFT
+	:Ivysaur(8) has potato and passing LEFT
+	:Fennekin(5) has potato and passing LEFT
+	:Lapras(11) has potato and passing LEFT
+	:Ivysaur(8) has potato and passing LEFT
+	:Fennekin(5) has potato and passing LEFT
+	:Lapras(11) has potato and passing LEFT
+	:Ivysaur(8) has potato and passing LEFT
+Fennekin(5) lost!
+
+ROUND 19
+========
+2 player/s remain:
+Ivysaur(8)
+Lapras(11) <-- CURSOR
+Passing potato 0 times RIGHT:
+Lapras(11) lost!
+
+ROUND 20
+========
+1 player/s remain:
+Ivysaur(8) <-- CURSOR
+Ivysaur(8) wins!

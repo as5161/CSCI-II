@@ -1,0 +1,6 @@
+(ALT) Machine instructions:
+PUSH -10
+SQRT
+PRINT
+(ALT) Executing...
+square root of negative number

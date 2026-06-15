@@ -1,0 +1,10 @@
+= two 2
+= three 3
+= nine 9
+= five 5
+= ten 10
+= negHundred ! 100
+= x $ * * * * two three - nine five ! ten negHundred
+= four % 13 9
+= eight ^ 2 3
+@ + x four
