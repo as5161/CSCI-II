@@ -1,0 +1,19 @@
+Java Problems
+
+For each of the numbered problems:
+- State whether the problem occurs at compile-time or run-time
+- Briefly describe what the problem is in plain English
+
+1. No problem
+2. Compile-time error because in.next() returns a String not an int. nextInt() should be used since i is an int.
+3. Run-time error because dividing by zero is not allowed and will make the program crash.
+4. Compile-time error because the second parameter (y) in the method min does not have a data type.
+5. Compile-time error because the function doesn't have a return for every possible situation.
+   It needs to return at least a int.
+6. Run-time error because the code creates a array but doesn't fill it with anything.
+   Then procceds to call an index of 0 which has nothing.
+7. Compile-time error because it is trying to assign a string ("a") to a char variable.
+     A char variable can only store one character not a string.
+8. Compile-time error because j is not initalized. It needs to be declared as an int.
+9. Compile-time error because 0.0 is a double until you put an f next to it to make it a float.
+10. No problem

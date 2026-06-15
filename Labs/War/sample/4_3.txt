@@ -1,0 +1,145 @@
+Shuffling Initial pile
+Initial pile: 3♢(D) K♥(D) 5♥(D) 5♧(D) 7♢(D) 5♢(D) 4♧(D) 2♠(D) Q♢(D) K♧(D) 6♧(D) J♢(D) 5♠(D) J♧(D) Q♠(D) 9♥(D) 9♢(D) 6♠(D) 2♧(D) 7♠(D) A♢(D) 8♢(D) 10♥(D) 8♠(D) 4♥(D) 3♠(D) A♥(D) Q♧(D) 2♥(D) 8♥(D) 4♠(D) A♧(D) 9♠(D) A♠(D) Q♥(D) K♠(D) 3♥(D) 6♥(D) 9♧(D) J♥(D) 2♢(D) J♠(D) K♢(D) 10♠(D) 10♢(D) 7♥(D) 10♧(D) 8♧(D) 3♧(D) 4♢(D) 7♧(D) 6♢(D) 
+ROUND 1
+P1 pile: 3♢(D) 5♥(D) 7♢(D) 4♧(D) 
+P2 pile: K♥(D) 5♧(D) 5♢(D) 2♠(D) 
+P1 card: 3♢(U)
+P2 card: K♥(U)
+P2 wins round gets Trick pile: 3♢(U) K♥(U) 
+ROUND 2
+P1 pile: 5♥(D) 7♢(D) 4♧(D) 
+P2 pile: 5♧(D) 5♢(D) 2♠(D) 3♢(U) K♥(U) 
+P1 card: 5♥(U)
+P2 card: 5♧(U)
+WAR!
+P1 pile: 7♢(D) 4♧(D) 
+P2 pile: 5♢(D) 2♠(D) 3♢(U) K♥(U) 
+P1 card: 7♢(U)
+P2 card: 5♢(U)
+P1 wins round gets Trick pile: 5♥(U) 5♧(U) 7♢(U) 5♢(U) 
+ROUND 3
+P1 pile: 4♧(D) 5♥(U) 5♧(U) 7♢(U) 5♢(U) 
+P2 pile: 2♠(D) 3♢(U) K♥(U) 
+P1 card: 4♧(U)
+P2 card: 2♠(U)
+P1 wins round gets Trick pile: 4♧(U) 2♠(U) 
+ROUND 4
+P1 pile: 5♥(U) 5♧(U) 7♢(U) 5♢(U) 4♧(U) 2♠(U) 
+P2 pile: 3♢(U) K♥(U) 
+Shuffling P1 pile
+P1 pile: 2♠(D) 4♧(D) 5♥(D) 5♧(D) 7♢(D) 5♢(D) 
+Shuffling P2 pile
+P2 pile: 3♢(D) K♥(D) 
+P1 card: 2♠(U)
+P2 card: 3♢(U)
+P2 wins round gets Trick pile: 2♠(U) 3♢(U) 
+ROUND 5
+P1 pile: 4♧(D) 5♥(D) 5♧(D) 7♢(D) 5♢(D) 
+P2 pile: K♥(D) 2♠(U) 3♢(U) 
+P1 card: 4♧(U)
+P2 card: K♥(U)
+P2 wins round gets Trick pile: 4♧(U) K♥(U) 
+ROUND 6
+P1 pile: 5♥(D) 5♧(D) 7♢(D) 5♢(D) 
+P2 pile: 2♠(U) 3♢(U) 4♧(U) K♥(U) 
+Shuffling P2 pile
+P2 pile: 3♢(D) 4♧(D) K♥(D) 2♠(D) 
+P1 card: 5♥(U)
+P2 card: 3♢(U)
+P1 wins round gets Trick pile: 5♥(U) 3♢(U) 
+ROUND 7
+P1 pile: 5♧(D) 7♢(D) 5♢(D) 5♥(U) 3♢(U) 
+P2 pile: 4♧(D) K♥(D) 2♠(D) 
+P1 card: 5♧(U)
+P2 card: 4♧(U)
+P1 wins round gets Trick pile: 5♧(U) 4♧(U) 
+ROUND 8
+P1 pile: 7♢(D) 5♢(D) 5♥(U) 3♢(U) 5♧(U) 4♧(U) 
+P2 pile: K♥(D) 2♠(D) 
+P1 card: 7♢(U)
+P2 card: K♥(U)
+P2 wins round gets Trick pile: 7♢(U) K♥(U) 
+ROUND 9
+P1 pile: 5♢(D) 5♥(U) 3♢(U) 5♧(U) 4♧(U) 
+P2 pile: 2♠(D) 7♢(U) K♥(U) 
+P1 card: 5♢(U)
+P2 card: 2♠(U)
+P1 wins round gets Trick pile: 5♢(U) 2♠(U) 
+ROUND 10
+P1 pile: 5♥(U) 3♢(U) 5♧(U) 4♧(U) 5♢(U) 2♠(U) 
+P2 pile: 7♢(U) K♥(U) 
+Shuffling P1 pile
+P1 pile: 4♧(D) 5♢(D) 2♠(D) 3♢(D) 5♥(D) 5♧(D) 
+Shuffling P2 pile
+P2 pile: K♥(D) 7♢(D) 
+P1 card: 4♧(U)
+P2 card: K♥(U)
+P2 wins round gets Trick pile: 4♧(U) K♥(U) 
+ROUND 11
+P1 pile: 5♢(D) 2♠(D) 3♢(D) 5♥(D) 5♧(D) 
+P2 pile: 7♢(D) 4♧(U) K♥(U) 
+P1 card: 5♢(U)
+P2 card: 7♢(U)
+P2 wins round gets Trick pile: 5♢(U) 7♢(U) 
+ROUND 12
+P1 pile: 2♠(D) 3♢(D) 5♥(D) 5♧(D) 
+P2 pile: 4♧(U) K♥(U) 5♢(U) 7♢(U) 
+Shuffling P2 pile
+P2 pile: 5♢(D) K♥(D) 7♢(D) 4♧(D) 
+P1 card: 2♠(U)
+P2 card: 5♢(U)
+P2 wins round gets Trick pile: 2♠(U) 5♢(U) 
+ROUND 13
+P1 pile: 3♢(D) 5♥(D) 5♧(D) 
+P2 pile: K♥(D) 7♢(D) 4♧(D) 2♠(U) 5♢(U) 
+P1 card: 3♢(U)
+P2 card: K♥(U)
+P2 wins round gets Trick pile: 3♢(U) K♥(U) 
+ROUND 14
+P1 pile: 5♥(D) 5♧(D) 
+P2 pile: 7♢(D) 4♧(D) 2♠(U) 5♢(U) 3♢(U) K♥(U) 
+P1 card: 5♥(U)
+P2 card: 7♢(U)
+P2 wins round gets Trick pile: 5♥(U) 7♢(U) 
+ROUND 15
+P1 pile: 5♧(D) 
+P2 pile: 4♧(D) 2♠(U) 5♢(U) 3♢(U) K♥(U) 5♥(U) 7♢(U) 
+P1 card: 5♧(U)
+P2 card: 4♧(U)
+P1 wins round gets Trick pile: 5♧(U) 4♧(U) 
+ROUND 16
+P1 pile: 5♧(U) 4♧(U) 
+P2 pile: 2♠(U) 5♢(U) 3♢(U) K♥(U) 5♥(U) 7♢(U) 
+Shuffling P1 pile
+P1 pile: 4♧(D) 5♧(D) 
+Shuffling P2 pile
+P2 pile: 5♢(D) 3♢(D) K♥(D) 5♥(D) 2♠(D) 7♢(D) 
+P1 card: 4♧(U)
+P2 card: 5♢(U)
+P2 wins round gets Trick pile: 4♧(U) 5♢(U) 
+ROUND 17
+P1 pile: 5♧(D) 
+P2 pile: 3♢(D) K♥(D) 5♥(D) 2♠(D) 7♢(D) 4♧(U) 5♢(U) 
+P1 card: 5♧(U)
+P2 card: 3♢(U)
+P1 wins round gets Trick pile: 5♧(U) 3♢(U) 
+ROUND 18
+P1 pile: 5♧(U) 3♢(U) 
+P2 pile: K♥(D) 5♥(D) 2♠(D) 7♢(D) 4♧(U) 5♢(U) 
+Shuffling P1 pile
+P1 pile: 3♢(D) 5♧(D) 
+P1 card: 3♢(U)
+P2 card: K♥(U)
+P2 wins round gets Trick pile: 3♢(U) K♥(U) 
+ROUND 19
+P1 pile: 5♧(D) 
+P2 pile: 5♥(D) 2♠(D) 7♢(D) 4♧(U) 5♢(U) 3♢(U) K♥(U) 
+P1 card: 5♧(U)
+P2 card: 5♥(U)
+WAR!
+P1 pile: 
+P2 pile: 2♠(D) 7♢(D) 4♧(U) 5♢(U) 3♢(U) K♥(U) 
+P2 wins round gets Trick pile: 5♧(U) 5♥(U) 
+P1 pile: 
+P2 pile: 2♠(D) 7♢(D) 4♧(U) 5♢(U) 3♢(U) K♥(U) 5♧(U) 5♥(U) 
+P2 WINS!

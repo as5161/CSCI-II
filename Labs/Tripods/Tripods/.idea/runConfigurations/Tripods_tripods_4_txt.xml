@@ -1,0 +1,18 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Tripods tripods-4.txt" type="Application" factoryName="Application">
+    <option name="ALTERNATIVE_JRE_PATH" value="liberica-21" />
+    <option name="MAIN_CLASS_NAME" value="tripods.Tripods" />
+    <module name="Tripods" />
+    <option name="PROGRAM_PARAMETERS" value="tripods-4.txt" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="test.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

@@ -1,0 +1,14 @@
+Shuffling Initial pile
+Initial pile: A♠(D) A♧(D) 10♢(D) 2♢(D) 4♠(D) J♢(D) 2♥(D) K♠(D) A♢(D) 8♥(D) K♥(D) J♧(D) 5♠(D) A♥(D) 9♠(D) 3♥(D) 6♢(D) Q♢(D) 7♥(D) 6♠(D) 10♧(D) K♢(D) Q♠(D) 9♢(D) Q♥(D) J♥(D) J♠(D) 7♢(D) 7♠(D) 2♠(D) 8♧(D) 7♧(D) 3♢(D) 8♠(D) 4♧(D) 10♥(D) 5♧(D) 9♥(D) 3♠(D) 9♧(D) 6♥(D) 2♧(D) 4♥(D) 4♢(D) 5♢(D) Q♧(D) 5♥(D) 3♧(D) K♧(D) 10♠(D) 8♢(D) 6♧(D)
+ROUND 1
+P1 pile: A♠(D)
+P2 pile: A♧(D)
+P1 card: A♠(U)
+P2 card: A♧(U)
+WAR!
+P1 pile:
+P2 pile:
+P1 wins round gets Trick pile: A♠(U) A♧(U)
+P1 pile: A♠(U) A♧(U)
+P2 pile:
+P1 WINS!

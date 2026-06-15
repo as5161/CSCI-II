@@ -1,0 +1,32 @@
+Shuffling Initial pile
+Initial pile: K♠(D) 8♧(D) 8♥(D) J♧(D) 5♠(D) Q♠(D) A♠(D) 4♥(D) 7♠(D) 3♥(D) 10♢(D) 6♢(D) A♧(D) 4♢(D) 9♠(D) 9♢(D) J♠(D) Q♥(D) Q♢(D) 7♧(D) J♥(D) K♢(D) 2♥(D) 5♧(D) 3♠(D) 5♥(D) J♢(D) Q♧(D) 6♠(D) 5♢(D) 3♢(D) 4♧(D) 10♧(D) 2♠(D) 2♧(D) 3♧(D) 8♠(D) 6♥(D) A♢(D) 10♥(D) 6♧(D) A♥(D) 8♢(D) K♥(D) 7♥(D) 10♠(D) 7♢(D) 4♠(D) 2♢(D) 9♥(D) 9♧(D) K♧(D)
+ROUND 1
+P1 pile: K♠(D) 8♥(D)
+P2 pile: 8♧(D) J♧(D)
+P1 card: K♠(U)
+P2 card: 8♧(U)
+P1 wins round gets Trick pile: K♠(U) 8♧(U)
+ROUND 2
+P1 pile: 8♥(D) K♠(U) 8♧(U)
+P2 pile: J♧(D)
+P1 card: 8♥(U)
+P2 card: J♧(U)
+P2 wins round gets Trick pile: 8♥(U) J♧(U)
+ROUND 3
+P1 pile: K♠(U) 8♧(U)
+P2 pile: 8♥(U) J♧(U)
+Shuffling P1 pile
+P1 pile: 8♧(D) K♠(D)
+Shuffling P2 pile
+P2 pile: 8♥(D) J♧(D)
+P1 card: 8♧(U)
+P2 card: 8♥(U)
+WAR!
+P1 pile: K♠(D)
+P2 pile: J♧(D)
+P1 card: K♠(U)
+P2 card: J♧(U)
+P1 wins round gets Trick pile: 8♧(U) 8♥(U) K♠(U) J♧(U)
+P1 pile: 8♧(U) 8♥(U) K♠(U) J♧(U)
+P2 pile:
+P1 WINS!
